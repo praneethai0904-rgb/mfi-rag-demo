@@ -1,0 +1,6 @@
+streamlit
+chromadb
+# If you use other libraries in your scripts/ folder, add them here
+# Example: 
+# sentence-transformers
+# pypdf
