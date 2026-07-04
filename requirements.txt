@@ -4,3 +4,4 @@ chromadb
 # Example: 
 # sentence-transformers
 # pypdf
+# ollama
