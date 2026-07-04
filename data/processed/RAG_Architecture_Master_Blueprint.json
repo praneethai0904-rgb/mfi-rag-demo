@@ -1,0 +1,3575 @@
+[
+  {
+    "type": "Header",
+    "element_id": "b4db8eb4d143d8ab5bffdceef3b6b28c",
+    "text": "Enterprise Retrieval-Augmented Generation (RAG)",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bb2e3932c30ff0193ca4965a4dd00ee2",
+    "text": "The Archetypal Blueprint Architecture for Localized Semantic Intelligence Engines",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b4db8eb4d143d8ab5bffdceef3b6b28c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9234b7a5cbc54f406de4c08ab94869e",
+    "text": "Golden Source Reference Document: This architectural blueprint acts as the absolute baseline",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bb2e3932c30ff0193ca4965a4dd00ee2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a8e880101d462caf9c384379cd3e357",
+    "text": "specification for building private, enterprise-grade Retrieval-Augmented Generation (RAG) platforms. Use this",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bb2e3932c30ff0193ca4965a4dd00ee2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1587309ebee334ca44b8b74cafe54365",
+    "text": "document as the foundational truth for understanding semantic state machines, local vector spaces, and",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bb2e3932c30ff0193ca4965a4dd00ee2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "40966edb06003f316408d028d19ce2b8",
+    "text": "contextual execution boundaries.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b4db8eb4d143d8ab5bffdceef3b6b28c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8ea20c7fbdb3b2e844dfb552ccf49e83",
+    "text": "1. Granular Step-by-Step System Flow Explanations",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "40966edb06003f316408d028d19ce2b8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cda468eb1f46e2b9bf26947357d17def",
+    "text": "A production-ready RAG framework decomposes into distinct architectural transitions that isolate runtime",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "40966edb06003f316408d028d19ce2b8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f0877453eb77db50a50a428452fdc4b7",
+    "text": "dependencies, structure unstructured text corpora, project meanings into high-dimensional geometric spaces, map",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "40966edb06003f316408d028d19ce2b8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9514f33a190ecc253223d8061c9fc398",
+    "text": "queries mathematically, and control model logic dynamically via static local contexts.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "40966edb06003f316408d028d19ce2b8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c43308263a413de3b880c055af03c9e3",
+    "text": "Runtime Isolation (Environment Setup)",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b4db8eb4d143d8ab5bffdceef3b6b28c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9baa6cd37eea6bae3d2cd0a376b49a63",
+    "text": "Establishes an isolated virtual sandbox runtime environment. This guarantees that all",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c43308263a413de3b880c055af03c9e3"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "074191202a91bb8235bcf225409e9b5f",
+    "text": "1.1",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c43308263a413de3b880c055af03c9e3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d5cc43cb22d4e6199f2dd5debc3b4b2",
+    "text": "required mathematical manipulation runtimes, vector database bindings, and communication",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c43308263a413de3b880c055af03c9e3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "713726d1a91f496d87202bf77c02ebd7",
+    "text": "client packages operate entirely separate from global operating system updates, neutralizing",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c43308263a413de3b880c055af03c9e3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e1aa90db0d202ba74facc1acce5209a",
+    "text": "package drift and runtime breaks across deployment lifecycles.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c43308263a413de3b880c055af03c9e3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0ec43eab89eee9cc3171cff293d32ea9",
+    "text": "Package Installation (Environment Setup)",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b4db8eb4d143d8ab5bffdceef3b6b28c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a819fc5c136938fe3137983c8b09123a",
+    "text": "Loads the explicit binary execution wheels and client broker SDK wrappers. This pulls the",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0ec43eab89eee9cc3171cff293d32ea9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b137e6ac5ecfd4561e2310e80f83bdd3",
+    "text": "1.2",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0ec43eab89eee9cc3171cff293d32ea9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5385c62c65f996c95b3f9554f87111a4",
+    "text": "dedicated database engines, underlying low-level matrix math configurations, and standard",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0ec43eab89eee9cc3171cff293d32ea9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7358faab17f7de674c7964d07990335",
+    "text": "loopback communications code into the runtime system memory space, making execution",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0ec43eab89eee9cc3171cff293d32ea9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "23512ee1269df66ba434f03d942571c0",
+    "text": "APIs globally reachable by local drivers.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b4db8eb4d143d8ab5bffdceef3b6b28c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "925da22b30778fbcb9d7966805fd37d3",
+    "text": "Document Parsing (Data Ingestion)",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b4db8eb4d143d8ab5bffdceef3b6b28c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eee70fa9b0773b7266f43100217bb5ef",
+    "text": "Scrapes and serializes binary file formats into flattened unicode string layouts. This step",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "925da22b30778fbcb9d7966805fd37d3"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a4776a2cae39891d52cda4e241eb6f6b",
+    "text": "2.1",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "925da22b30778fbcb9d7966805fd37d3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f14845243bc1e93759fe3bdf7ed1f485",
+    "text": "reads binary assets (such as regulatory compliance PDFs), breaks down internal formatting",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "925da22b30778fbcb9d7966805fd37d3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "18ff13cc6bcced8204045ab61fe29072",
+    "text": "layers, and flattens text streams into unified system memory variables while retaining core",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "925da22b30778fbcb9d7966805fd37d3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "00d6b92dcce63d85ebbbc7cc59de300c",
+    "text": "characters and explicit reference indices.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b4db8eb4d143d8ab5bffdceef3b6b28c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "43319cce76b80b35882598a397007cea",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "92a1e0ed94161d58932857b54eca1aea",
+    "text": "Page 1 of 9",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "54f646ec0610fed462146fad2294477a",
+    "text": "Context Window Chunking (Data Ingestion)",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "222d0dd7cc2813aa99b517d32fc54906",
+    "text": "Divides continuous string records into discrete, overlapping text blocks matching fixed token",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "54f646ec0610fed462146fad2294477a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a17bf8df6ed24592628ff4781c7c955f",
+    "text": "2.2",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "54f646ec0610fed462146fad2294477a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59b0f0e807ea76aefe2b595268dcf1e7",
+    "text": "counts. Slicing documents into structured paragraphs ensures the downstream reasoning",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "54f646ec0610fed462146fad2294477a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "481aacbad3ce8f0683f9b0fb89816cc4",
+    "text": "engine can fully absorb details without hitting token memory limits or degrading attention",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "54f646ec0610fed462146fad2294477a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d17a9037d2b620da667d218d484308cc",
+    "text": "matrices.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1390dde0b20448c48b88b19aee08a890",
+    "text": "Tokenization (Vector Vectorization)",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a88f858ff1e8a52998855c4609813fbc",
+    "text": "3.1",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1390dde0b20448c48b88b19aee08a890"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "98da579aeb25ed761a59c00379dc39af",
+    "text": "A non-intelligent mechanical pre-processor that strips natural sentences down into explicit",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1390dde0b20448c48b88b19aee08a890"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "03ab994bf551e69cb0d555a510d1653a",
+    "text": "token integers. This stage translates variable-length human words and word fragments into",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1390dde0b20448c48b88b19aee08a890"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "45330a4b4c3ea094ec30084eb758ceac",
+    "text": "fixed internal array integers using a localized static vocabulary mapping table.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1390dde0b20448c48b88b19aee08a890"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cb506ddbb3e3cdae7eccf341998fb6d8",
+    "text": "Dense Vector Projection (Vector Vectorization)",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c16bb01ba6b54737e17b417077adc3a",
+    "text": "Passes token integers through a deep embedding neural network to output dense geometric",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cb506ddbb3e3cdae7eccf341998fb6d8"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a4f693bbd542161cbd7e39dd1ca1fc55",
+    "text": "3.2",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cb506ddbb3e3cdae7eccf341998fb6d8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c2c0fcdd371b9f2c3174669e8e33edbf",
+    "text": "floating-point coordinate lists of fixed length (such as a d = 768 space). This mathematical",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cb506ddbb3e3cdae7eccf341998fb6d8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "25e39263fb2e52b363572f772afc4139",
+    "text": "projection converts words into coordinates where conceptual definitions dictate real",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cb506ddbb3e3cdae7eccf341998fb6d8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bbc6021f3489aaa8bcb4e1a36ebc9e1b",
+    "text": "geographic positions.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c1be7198f530846c9ca191472e13faee",
+    "text": "DB Initialization (Storage & Indexing)",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5f27deeff64b52d951cdfdbb84f31f0b",
+    "text": "4.1",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1be7198f530846c9ca191472e13faee"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5a1e92b2363c0e470291d1d85bec48db",
+    "text": "Instantiates an empty persistent physical database instance on disk storage. This safely",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "355f58b500abf8e145f0a32af1e42468",
+    "text": "reserves system directories and sets up background structure configuration files, ensuring",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "5a1e92b2363c0e470291d1d85bec48db"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "634c5a847cf597cb0e420b4a8eb2d6f3",
+    "text": "data records survive runtime restarts and program drops.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "5a1e92b2363c0e470291d1d85bec48db"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5e317e244b9b9e9a0b98053ec80403ac",
+    "text": "Mapping Alignment (Storage & Indexing)",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "203ff3219c571d3759113d7c68ffb149",
+    "text": "Configures a distinct isolation namespace collection inside the database with a strict",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3bb0d6126ff66873d7eee394a8e3a697",
+    "text": "4.2",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "203ff3219c571d3759113d7c68ffb149"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4dfccf666e505bf84e10dd1426aa3859",
+    "text": "dimensional contract. This forces the storage engine table schema to only accept matching",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "203ff3219c571d3759113d7c68ffb149"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4ddb2769e4cb24db1c078d77b2094c0f",
+    "text": "data structures (e.g., exactly 768 floats long), completely preventing dimensional data",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "203ff3219c571d3759113d7c68ffb149"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "672603c0e22a8fbf4dd2dfc07c2c4ab3",
+    "text": "alignment bugs.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0105f27d2057dd0168e210c9ebd5855a",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "63f26c0db6616f958e4f9ad29fc3032c",
+    "text": "Page 2 of 9",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "443be3eae6fdcccf7fdd804ed1942f85",
+    "text": "Bulk Document Seeding (Storage & Indexing)",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2096e1a1d4c405f05ba7d0bcd1571705",
+    "text": "4.3",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "443be3eae6fdcccf7fdd804ed1942f85"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "67b35aebb86cfc0a83b8242b452a25cd",
+    "text": "Writes text paragraph chunks alongside their spatial coordinates and metadata rows down to",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "443be3eae6fdcccf7fdd804ed1942f85"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ca0c6d8f5691ac375ee8375a1907dd2",
+    "text": "disk storage. It compiles data points into a multi-dimensional graph optimized for high-speed",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "443be3eae6fdcccf7fdd804ed1942f85"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "274e8d1c5bf857b3ed2185e6cc2309e6",
+    "text": "spatial querying, providing reliable long-term persistence.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "443be3eae6fdcccf7fdd804ed1942f85"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8e9e36411fd942c58a99d1a866402a8a",
+    "text": "Question Vectorization (Retrieval)",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bb720387f271fddb31157e6bcee4d6e6",
+    "text": "5.1",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8e9e36411fd942c58a99d1a866402a8a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c5724904cce8d01a3afa3a0af6553d23",
+    "text": "Transforms raw user search queries into a matching numerical vector format. Using the",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8e9e36411fd942c58a99d1a866402a8a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b3dfd0bb55706f672609e075138d61d1",
+    "text": "identical embedding transformer used during document seeding ensures human questions",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8e9e36411fd942c58a99d1a866402a8a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "857c0e75eb26954b930b79e8a3527ac8",
+    "text": "land on the same coordinate grid as the target corporate guidelines.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fda0c8d1c4fee0f7250b78406663c2e5",
+    "text": "Distance Math Query (Retrieval)",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b90fa94ed1da26d6af7bf3ceacb457d4",
+    "text": "5.2",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fda0c8d1c4fee0f7250b78406663c2e5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "972016a4bdbf2cd5a6ee27b71b080118",
+    "text": "Runs matrix angle distance calculations across the stored coordinates to extract top",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fda0c8d1c4fee0f7250b78406663c2e5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0404582015ed53aecbd96d4add0698a0",
+    "text": "candidate entries. This isolates the closest matching source text entries by measuring",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fda0c8d1c4fee0f7250b78406663c2e5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1c0cc6eb7e34fe5e4e8468cdf52a4e9",
+    "text": "angular proximity, bypassing rigid keyword match boundaries.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fda0c8d1c4fee0f7250b78406663c2e5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a1bf074bf60a678bcba4cb7753017d4c",
+    "text": "Context Stuffing (Augmentation)",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5793be96f79aee8432cf19516630bc65",
+    "text": "6.1",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a1bf074bf60a678bcba4cb7753017d4c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "025bc7c284f817b01208fb290444afaf",
+    "text": "Assembles a complete prompt blueprint block using string concatenation templates. This",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a1bf074bf60a678bcba4cb7753017d4c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f773b1100a102f013cb9b0b0a58b8ae6",
+    "text": "wraps the newly harvested source text directly alongside the user's raw question,",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a1bf074bf60a678bcba4cb7753017d4c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "108922677f941fdabe8f9882b7d653b8",
+    "text": "transforming a loose query into a localized open-book task.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a1bf074bf60a678bcba4cb7753017d4c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ad9f013aa2ba83c59aa95cef141ea372",
+    "text": "Rule Guardrailing (Augmentation)",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8986005eedf0d888a076d1349e81afd3",
+    "text": "6.2",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ad9f013aa2ba83c59aa95cef141ea372"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1219103ccdead6ec59e5492327ad78fc",
+    "text": "Grafts unyielding execution rules onto the dynamic prompt package. This configures explicit",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ad9f013aa2ba83c59aa95cef141ea372"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab3ca8bde763875e407601b37010158b",
+    "text": "behavioral conditions, barring the model from using generalized data and eliminating",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ad9f013aa2ba83c59aa95cef141ea372"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2b1917684167c75323bcc0163f6c9271",
+    "text": "corporate hallucinations.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b58aba52c1e306288b2bd5c87ed22593",
+    "text": "Local Host Optimization (Generation)",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1d04852d3a6581119198a2f78a3a8797",
+    "text": "7.1",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b58aba52c1e306288b2bd5c87ed22593"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "16f5faa6c7ace99af3807bbbc23ca760",
+    "text": "Maps model weight matrices directly into local host memory layers. Utilizing fine-tuned",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b58aba52c1e306288b2bd5c87ed22593"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb005e57a6d6377a4fbf22d9d74d8177",
+    "text": "models matching local resource caps prevents system failures and ensures fast, hardware-",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b58aba52c1e306288b2bd5c87ed22593"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e94c7bb6fb695443ae4d9b9999f58dff",
+    "text": "safe execution.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "5c4a27a3656e58de6b6cdc35551edce9",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9413a1f149697dffabbe341b738f7d98",
+    "text": "Page 3 of 9",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "58bdce51e53909b3d7d80f986dd3abc9",
+    "text": "Text Synthesis (Generation)",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c77cd6b352723102972bc980975d7dea",
+    "text": "7.2",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "58bdce51e53909b3d7d80f986dd3abc9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1fa8c8e7da2f11a24768e6f746067a90",
+    "text": "Executes token generation matrices to draft the final response. The model combines its",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "58bdce51e53909b3d7d80f986dd3abc9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a25423989be9efae8a26ef844fd8dddc",
+    "text": "linguistic patterns with the injected source text to produce a verified compliance answer",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "58bdce51e53909b3d7d80f986dd3abc9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "38c07475897ad0a394ca972d97f15bc8",
+    "text": "completely offline.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fd58db550e6635898e283ae115b6a5c2",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f7059891b9b414b265c4f6fd9fb02ac8",
+    "text": "Page 4 of 9",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d203338d0f47128c71a621b631fe004",
+    "text": "2. Sequential Execution Mapping Diagram",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e75e507c58d1de7162c25c0968b2880f",
+    "text": "This master sequence diagram traces the complete timeline of a single search transaction. Every step shows a",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "76d59b3e4220821d347e657d8a3fb6d1",
+    "text": "single line explanation detailing how data transitions through your system components.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fd70b4e97db1b0bf5f550972acd82e89",
+    "text": "1.1",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5a4af974d11930983c8819c7c67bd5cf",
+    "text": "Runtime Isolation",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f36c381e3b161d3e0792379f3aefdb51",
+    "text": "Locks system code executions within an isolated virtual",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ef72b1b5eaea033424f71869cf506c15",
+    "text": "playground safely away from OS conflicts.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "702ad0d034b7299a326b09e717a8a59b",
+    "text": "1.2",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ef72b1b5eaea033424f71869cf506c15"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "67436480b86597aafb00af45212823c8",
+    "text": "Package Installation",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "837a3fa611f763951f196cc424701e54",
+    "text": "Downloads the required database libraries and AI client code",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "67436480b86597aafb00af45212823c8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7a629d9b08221e9ebc2fbe96943df639",
+    "text": "interfaces directly into the runtime workspace.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "67436480b86597aafb00af45212823c8"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "afae2c0e25ac2f176c04a059dccbe0a8",
+    "text": "2.1",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "67436480b86597aafb00af45212823c8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "36b243b26b79ad17d22060b3ab24912b",
+    "text": "Document Parsing",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "adb6c6653edd6d3e24a774f637a59c0c",
+    "text": "Extracts locked text words out of binary PDF books and dumps",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "36b243b26b79ad17d22060b3ab24912b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cf2f0ce7c0f78330f10ae4640b0d10f9",
+    "text": "them into unified memory characters.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "488a5105bb7a6c796978720b16c13599",
+    "text": "2.2",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cf2f0ce7c0f78330f10ae4640b0d10f9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d49cda57d86b63ff804d86c864d32617",
+    "text": "Context Window Chunking",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e9c872b2872df8f5be6162efbcc9d1e2",
+    "text": "Slices large walls of text down into manageable paragraph",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "499aa1be057a8328554f9fed1034d0b8",
+    "text": "sections so the AI engine never burns out memory.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e9c872b2872df8f5be6162efbcc9d1e2"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1a75d186f492dd9546f1074fec7ca722",
+    "text": "3.1",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e9c872b2872df8f5be6162efbcc9d1e2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ef3f77d879f01c12f035a7aa13195591",
+    "text": "Tokenization",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42319a6a153aa388e0589709018c231f",
+    "text": "Mechanically chops word lines into integer barcode numbers",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ef3f77d879f01c12f035a7aa13195591"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69361f709e70048e82207d19c76a92be",
+    "text": "that computer networks can process.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ef3f77d879f01c12f035a7aa13195591"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b7a1b3f55e6077634ef4cf8df02e7661",
+    "text": "3.2",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ef3f77d879f01c12f035a7aa13195591"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "35285a85123fcef2d8307716b8cbfe85",
+    "text": "Dense Vector Projection",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0520c5d3f8b133401978f95613457ff6",
+    "text": "Converts those barcode tokens into 768 math coordinates that",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "35285a85123fcef2d8307716b8cbfe85"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42e7c6bef16ef95aca7921e263e64ac3",
+    "text": "capture the exact conceptual definition of the text.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "35285a85123fcef2d8307716b8cbfe85"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e8f8394c85cfbf155616df97ceeca3a2",
+    "text": "4.1",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "35285a85123fcef2d8307716b8cbfe85"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d698d434528172acf354f6ed80f43bed",
+    "text": "DB Initialization",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "27cfb36bdfd423593f6675c7a14026f1",
+    "text": "Creates a permanent digital filing storage container on the hard",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d698d434528172acf354f6ed80f43bed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "031e05303a0c964757498bdb32efe2b6",
+    "text": "disk that survives system power drops.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d698d434528172acf354f6ed80f43bed"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "83a55db25d4a8b5876271ffc3621bfbe",
+    "text": "4.2",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d698d434528172acf354f6ed80f43bed"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9fad7463f7206fe4e505fea00e379ca1",
+    "text": "Mapping Alignment",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e04f20cbed814b2a50d50599fd76a60",
+    "text": "Configures the database storage drawers to strictly reject any",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9fad7463f7206fe4e505fea00e379ca1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "edea72051e36e8ee7551ba3c76f8293a",
+    "text": "incoming data file not matching 768 slots wide.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9fad7463f7206fe4e505fea00e379ca1"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0ff2d808d541cac192af08fc92b6e4c5",
+    "text": "4.3",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9fad7463f7206fe4e505fea00e379ca1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "70ec4fc0877d682995ba05967df5cfbb",
+    "text": "Bulk Document Seeding",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b3905478b273c172fac665b98025a943",
+    "text": "Saves all paragraph blocks, vector maps, and index markers",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "41f6e81c68bc6da304bd728479ab0fbd",
+    "text": "permanently onto the localized hard drive files.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b3905478b273c172fac665b98025a943"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f4316f7cf2bc36594e9b79b19c7103a7",
+    "text": "5.1",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b3905478b273c172fac665b98025a943"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8e2d9226d4b9ccb1eacba706059db6e1",
+    "text": "Question Vectorization",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c2f42861b500f5303c77c7f9710ca112",
+    "text": "Translates the user's text question into the exact same 768-",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8e2d9226d4b9ccb1eacba706059db6e1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "74a7be6829995e431c3ba1358b13df6e",
+    "text": "number layout grid used for your documents.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8e2d9226d4b9ccb1eacba706059db6e1"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ce0e93085cede0ac7552c19bbbe0d078",
+    "text": "5.2",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8e2d9226d4b9ccb1eacba706059db6e1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e5ff069896b9a93434592d73cba90385",
+    "text": "Distance Math Query",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30d08eb276994f0445daceb1202fe708",
+    "text": "Compares question coordinates against document coordinates",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e5ff069896b9a93434592d73cba90385"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "928c64ad7f761aee02a975214f164c27",
+    "text": "and extracts the 2 closest conceptual entries.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e5ff069896b9a93434592d73cba90385"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6020772a3f01947a643ffb3788c40941",
+    "text": "6.1",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e5ff069896b9a93434592d73cba90385"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "af020d4db89fad880a035402173c21c2",
+    "text": "Context Stuffing",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d243e948b54f970e19689f68d2cec933",
+    "text": "Staples the extracted source paragraphs directly onto the",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "af020d4db89fad880a035402173c21c2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7bf1f8ee79b867a37a84a29101c0a13c",
+    "text": "user's question into a unified prompt package.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c30e81a92a4f0c26d590fb75c67b8652",
+    "text": "6.2",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "7bf1f8ee79b867a37a84a29101c0a13c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4da9b647f8825a3eb1d7237a201cb399",
+    "text": "Rule Guardrailing",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5fe5649a4b36293d1cb0e950ec21958",
+    "text": "Grafts strict baseline rules ordering the AI brain to write",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4da9b647f8825a3eb1d7237a201cb399"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffcc28e2a066bb401c2465be57accc98",
+    "text": "answers using *only* the attached text data sheet.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4da9b647f8825a3eb1d7237a201cb399"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6d61f03e2f6a642ebc05e9c9a0ea97b7",
+    "text": "7.1",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4da9b647f8825a3eb1d7237a201cb399"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "92d1d09a6c8570ea2cd8ce07568e671a",
+    "text": "Local Host Optimization",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "927c5167f938b359593f322f31ffb725",
+    "text": "Maps small, resource-friendly AI models into local RAM chips",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffb57584ad7de7eba73f27ea4640d27d",
+    "text": "to stop out-of-memory backend system crashes.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "927c5167f938b359593f322f31ffb725"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f2bc34908fb59a809065beed28021259",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "19b6293c703c7f81eb98fadec1f834cc",
+    "text": "Page 5 of 9",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1ad0d4f2324eb1af7f573c818fde40c9",
+    "text": "7.2",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "419a1bd46dc4b2dee4a91d405d929d77",
+    "text": "Text Synthesis",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "095c40170ebae0467abcf7a16a3bc5f9",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d9921c96c5a2da1f552c131fa6c22bd",
+    "text": "Translates dry matching data paragraphs into a perfectly",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b15e48ce56389304cf893ee58e293a5",
+    "text": "written, human compliance answer completely offline.",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0395b1c7308329256749912183812dbd",
+    "text": "Page 6 of 9",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bfafe0b234297c271ecb6dd5451dcd6b",
+    "text": "3. The Architecture Core Matrix",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71d145c691f2e65f6a6199f078ec996e",
+    "text": "This deep theoretical and technical matrix acts as your development blueprint. Use this table as the absolute",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ddd03ce05a4ef118ac7a63558e2f22b6",
+    "text": "source of truth to resolve bugs or plan future infrastructure migrations.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1773e6c28a239e573197b42df10ec09f",
+    "text": "PHASE &",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d3a88714432f8df28a2c07ac729b2343",
+    "text": "STEP",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "70ad625f62a3a7909eb52b891e0cea42",
+    "text": "TECHNICAL OPERATION & CODE LOGIC",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "af8e82314755f84976637ea20056d0c0",
+    "text": "THEORETICAL PREMISE & CORE SYSTEM",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "20191acba19b975664a145284953f41d",
+    "text": "PURPOSE",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57a68d2265ac0961694aeb734a06ad4c",
+    "text": "1. ENVIRONMENT CONFIGURATION",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "20191acba19b975664a145284953f41d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fa6b9dad023167776f4a0e829ec15dd4",
+    "text": "1.1 Runtime Isolation",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7cc4dbc888451ab5399eefd6599af495",
+    "text": "Executes sandboxed folder generation via virtual environment binaries, spinning up segregated local binary sub-trees completely decoupled from standard system spaces.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fa6b9dad023167776f4a0e829ec15dd4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "29f0d85d99fb9bd00bab53bae5f5708f",
+    "text": "Guarantees deterministic execution across nodes by eliminating module configuration drift and cross- project package dependencies.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fa6b9dad023167776f4a0e829ec15dd4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1347f8677bc61e3c2472304c1267b3ad",
+    "text": "1.2 Package Installation",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a9a677db03037f474df673a13024c223",
+    "text": "Pulls down structural library wheels and compiles runtime C++ links for local networking routing hooks (`chromadb`, `ollama`).",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1347f8677bc61e3c2472304c1267b3ad"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e05589004f7a9b8d0fadd2b5a51c1d1f",
+    "text": "Establishes the required system integration wrappers so low-level core engines can talk via network sockets.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1347f8677bc61e3c2472304c1267b3ad"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6747dd94c0b5d00fa79691ff7964ffd5",
+    "text": "2. DATA INGESTION & PIPELINES",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1347f8677bc61e3c2472304c1267b3ad"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1e73e124a21835de7cb3d071b5fc1d7d",
+    "text": "2.1 Document Parsing",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "642af8778227d00e6d75ac03f43ad41f",
+    "text": "Iterates through binary document assets via stream parsing scripts, stripping visual layouts to output flat Unicode string data blocks.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1e73e124a21835de7cb3d071b5fc1d7d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be578b14820e796e69297aef9d6919de",
+    "text": "Extracts the raw intellectual facts out of layout- dependent formats and loads them into linear memory variables.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1e73e124a21835de7cb3d071b5fc1d7d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4221d4b6080cd60d4d9498ffb733e899",
+    "text": "2.2 Context Chunking",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "175f2ee53f1e27d6c04d3c46e2e7263b",
+    "text": "Slices continuous strings into structured blocks using boundary parameters, ensuring text remains contextual.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4221d4b6080cd60d4d9498ffb733e899"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "66e6de869cb92f8d678d53f5142c4a98",
+    "text": "Prevents attention matrix degradation and circumvents context window limitations within downstream LLMs.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4221d4b6080cd60d4d9498ffb733e899"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "18f79e4c76d74421968fdd139ae80242",
+    "text": "3. VECTOR SPACE MAPPING",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4221d4b6080cd60d4d9498ffb733e899"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7086bd2879be8f7849a703e31d1afde5",
+    "text": "3.1 Tokenization",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bcba20abf803a24488d69042943458db",
+    "text": "Converts string blocks into sub-word integer keys based on a static localized language dictionary table mapping.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "7086bd2879be8f7849a703e31d1afde5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b3613de123e7408718be5c740594ae69",
+    "text": "Translates variable human syntax parameters into discrete integer formats that linear processors can ingest.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "7086bd2879be8f7849a703e31d1afde5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8105bba09851e5d34ce869170fadbc05",
+    "text": "3.2 Dense Vector Projection",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6a11ae5b227ef3b743c827d5e3304f6",
+    "text": "Passes token tokens through transformer layers to generate fixed-length arrays consisting of exactly 768 float coordinates.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8105bba09851e5d34ce869170fadbc05"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bfc9097f818347e5ec3d61dc5fbadd6c",
+    "text": "Mathematical projection into semantic vector space. Conceptual relationships are modeled by spatial distance.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8105bba09851e5d34ce869170fadbc05"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "acacb643f8fbec3ecde0528c2097f31d",
+    "text": "4. VECTOR STORAGE INDEXING",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8105bba09851e5d34ce869170fadbc05"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c5601244f3846563c25bee43de88be80",
+    "text": "4.1 DB Initialization",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "649355fcdb6686284586c30bdb1238a4",
+    "text": "Instantiates persistent disk-backed database managers using specified path arguments (`data/ chroma_db`).",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c5601244f3846563c25bee43de88be80"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eecaa2920e70c60fcb8fb6e1bbdf2a9f",
+    "text": "Guarantees local data persistence. Ensures that indexed corporate knowledge survives server restarts.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c5601244f3846563c25bee43de88be80"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "23f4b71cc60b74c843053f23f090a79b",
+    "text": "4.2 Mapping Alignment",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69d975ad6460712e06acd7f42f237e3d",
+    "text": "Validates structural table configurations to enforce explicit coordinate index lengths matching the embedding layer specs.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "23f4b71cc60b74c843053f23f090a79b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "22277943cccaa35c34aaae45cd77dc00",
+    "text": "Enforces strict dimensional schema rules, preventing spatial query errors caused by misaligned coordinates.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "23f4b71cc60b74c843053f23f090a79b"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fda70063b440ff9e6d64ab941790de31",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d277732caacc28d2c99de3b3c4d48c56",
+    "text": "Page 7 of 9",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "86832ff170e5fcd1576778fe5a8a1ef2",
+    "text": "PHASE &",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c48a4ef46e6cb69100d26210e95d4587",
+    "text": "STEP",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a95932eb9f6f41eaf583e7868f9551f7",
+    "text": "TECHNICAL OPERATION & CODE LOGIC",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bec7e57f7b18a567a795989cfc40b9aa",
+    "text": "4.3 Document Seeding",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c7f3c27c45ec4cc3fe9874f20e90a92e",
+    "text": "Writes raw text blocks, vector arrays, and index indices down to disk, building tree graphs for high-speed spatial searches.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bec7e57f7b18a567a795989cfc40b9aa"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d6b4c3ef21b227ff7a25776ef5935c75",
+    "text": "5. SEMANTIC RETRIEVAL LOOPS",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bec7e57f7b18a567a795989cfc40b9aa"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ba996aa8f41a2114e2dfc80412ebede5",
+    "text": "5.1 Query Vectorization",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "484f27aad54f265321a157571b73a4d1",
+    "text": "Transforms real-time user input text questions into standalone 768-dimension coordinate arrays on the fly.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ba996aa8f41a2114e2dfc80412ebede5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b88c8f4e338624ab9053f25c61eb7d45",
+    "text": "5.2 Distance Math Query",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "86514533eb4b613f2f00ebb9b9fad9f6",
+    "text": "Runs high-speed vector distance calculations over tree graphs to pull the top matching paragraphs.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b88c8f4e338624ab9053f25c61eb7d45"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3d26855c89ce551acbfcbb4de71ea3d3",
+    "text": "6. CONTEXTUAL AUGMENTATION",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b88c8f4e338624ab9053f25c61eb7d45"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9f93e527e0f07c0aafbc9a7aa8be44c6",
+    "text": "6.1 Context Stuffing",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eeab61200c5b99f7163a88b85c88fd27",
+    "text": "Uses template operations to embed retrieved facts directly alongside user inputs into a single text block.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9f93e527e0f07c0aafbc9a7aa8be44c6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "58e743bd519e065e9883e0b0ef363e61",
+    "text": "6.2 Rule Guardrailing",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8e2bf42f92d99645493b226e240dbfe4",
+    "text": "Appends explicit system operational parameters restricting output text generation strictly to facts in the payload.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "58e743bd519e065e9883e0b0ef363e61"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a4bc82e89b1ab2667695a568be23046",
+    "text": "7. LOCAL INFERENCE GENERATION",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "58e743bd519e065e9883e0b0ef363e61"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1b40342b48bab3f498d7a7697b146c01",
+    "text": "7.1 Host Optimization",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d3a6903d92f12e69a5cf2ac14cfcd483",
+    "text": "Maps model weight parameters into available system memory banks matching the specific developer machine profile.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1b40342b48bab3f498d7a7697b146c01"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "98009b3570906e516fc9d512bfc6dfb4",
+    "text": "7.2 Text Synthesis",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "17f2a2d556904ac24625c761e20f78a7",
+    "text": "Processes prompt parameters through localized reasoning networks to output structured natural language responses.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "98009b3570906e516fc9d512bfc6dfb4"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "cf4d47f24b2bfbea92a24427ee0c0b52",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b24b64ccbc022904ad2f5078c325880f",
+    "text": "THEORETICAL PREMISE & CORE SYSTEM",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "484ea00e0960c50a8c62dc3af95a701f",
+    "text": "PURPOSE",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5985a7dabd5a46044188b829dbade6c6",
+    "text": "Builds optimal spatial retrieval graphs, allowing fast near-neighbor lookups across thousands of paragraphs.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "484ea00e0960c50a8c62dc3af95a701f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4cda8469c804d17929af37a8b4925690",
+    "text": "Maintains coordinate framework symmetry. Questions must use the exact same grid system as the stored texts.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "484ea00e0960c50a8c62dc3af95a701f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c3ceb5639223a78a73f270b695364243",
+    "text": "Implements semantic context retrieval, fetching precise facts based on underlying meaning rather than basic keyword counts.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "484ea00e0960c50a8c62dc3af95a701f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ed098ed4e1d3c0ad415d954186d299c",
+    "text": "Transforms open-domain queries into a closed- book evaluation, reducing hallucination vectors significantly.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "484ea00e0960c50a8c62dc3af95a701f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05d8cf4eb6e68037dfce7fde42a8469e",
+    "text": "Sets unbending system behavioral controls, ensuring responses are fully grounded in corporate rules.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "484ea00e0960c50a8c62dc3af95a701f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fea2b64349dac912aa1e3d15f09cc7ab",
+    "text": "Resource balancing. Selecting efficient local models prevents memory exhaustion crashes on standard hardware.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "484ea00e0960c50a8c62dc3af95a701f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "58f9cb1cc3ea58d4d4b3910db8d8c7b2",
+    "text": "Leverages linguistic intelligence layers to format dry, disjointed facts into an actionable compliance response.",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "484ea00e0960c50a8c62dc3af95a701f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d065e0a6d38dc11de9ab87c6f3e8871e",
+    "text": "Page 8 of 9",
+    "metadata": {
+      "page_number": 8,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a8ee31ed1f7124e6b01b1512aa13ca9",
+    "text": "4. Core Architecture Concept Graph",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79edda357728499f2f00bed38f9a0169",
+    "text": "This master visual diagram tracks the physical pipeline of your localized enterprise RAG engine. It maps the",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2a12043e04c61e2abafcd4737719d62",
+    "text": "transition of unstructured corporate resources through parsing, spatial database indexing, query translation, context",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6821f354917a2bd27d1421542cd7c365",
+    "text": "stuffing, and local LLM execution loops.",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f024a89f0ecf16120af809092095108b",
+    "text": "PHASE A: OFFLINE KNOWLEDGE INGESTION PIPELINE",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "61c97c2d2fdc90a51a834f68ce63b714",
+    "text": "RawMFIPolicy",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7bbbcafc2bd0a63a9f220b310a075d88",
+    "text": "2.1DocumentParsing",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e88494b76c86783ca23d0d7e8a775777",
+    "text": "2.2WindowChunking",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1a4729b723ad2a43da4eb5f6e2c924e7",
+    "text": "PDFDocuments",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7755f3cf53105e5dcec7325629c27255",
+    "text": "122OverlappingParagraphs",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "282db5bf2e2b8a9d7d993798b6e6f4a5",
+    "text": "ExtractRawStringStreams",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c906bdc37447ca080533ad0eb556aa56",
+    "text": "3.1&3.2VectorProjection",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bfb74c96b739213b1921aa79b8e95c3a",
+    "text": "4.1,4.2,4.3LocalChromaDBStorage",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6359411b650ed0a602bdc9d08af58346",
+    "text": "PersistentIndexGraphssavedtoDisk",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "deb8b9e807db4ca2bc40cf3b2dfc9091",
+    "text": "nomic-embed-text(768Coordinates)",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "6359411b650ed0a602bdc9d08af58346"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bca373f2d2b39c7344cba82d85f92fe7",
+    "text": "PHASE B: REAL-TIME INFERENCE & REASONING LOOP",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "17cfe7f63f8e4bf5f662e716d80c5d30",
+    "text": "UserNaturalQueryInput",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0570be100646fcb7d4d4bf65605374b9",
+    "text": "\"Whatisindividualloanceilinglimit?\"",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8b6c0f81297fb704613b7b78edc30bdd",
+    "text": "5.1QueryVectorization",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a65978e45584d977dc58c9e5089e7736",
+    "text": "Translatestringinto768FloatArray",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ea5e0507c2492fd40407f52aad2e6125",
+    "text": "5.2DistanceMathSearch",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4717a55f24ba5ddfd2c0e96c0a7d4469",
+    "text": "Extracttop2conceptualtextchunks",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "400c8514dc68622fd717da90d8d51b03",
+    "text": "6.1&6.2PromptAugmentation&Rules",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7eab570f0510d781f796c114c87829b2",
+    "text": "StapleContextBlocks+InjectAnti-HallucinationGuardrails",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4e9c2e422f505452a75f7fec1d4f7e4d",
+    "text": "7.1&7.2LocalTextSynthesis",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f462a4137a5cb4a4eaf8fc69472f39f2",
+    "text": "OllamaEnginerunsllama3.2:1binsideRAM",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e63c028fea15511547e711f432154c01",
+    "text": "\u2728GROUNDEDANSWERPRINTEDTOTERMINALCONSOLECONTEXTCLEANLY",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c31f92fb6582568a217c4b819d2e1d74",
+    "text": "Local Enterprise RAG Core Engine Blueprint",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "328c6a284e0f13c08cf7b495179b8f24",
+    "text": "Page 9 of 9",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RAG_Architecture_Master_Blueprint.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

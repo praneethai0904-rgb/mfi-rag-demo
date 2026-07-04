@@ -1,0 +1,5948 @@
+[
+  {
+    "type": "Title",
+    "element_id": "d07e3a6c4633250090b0af46567f3b12",
+    "text": "CODE OF CONDUCT FOR THE MICROFINANCE INDUSTRY",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d298fc912fe732f4ac01e3956dd16cab",
+    "text": "1",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c133381dc003705c7114e09edbbabd1d",
+    "text": "Preamble",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "245490b0673c812bf38f58dbf51903fd",
+    "text": "Microfinance Institutions (MFIs), irrespective of legal forms, seek to create individual and social benefits and promote financial inclusion by providing financial services to clients of financially un-served and underserved households. Over time, the Microfinance Sector has become an integral part of the financial infrastructure for the vulnerable sections of society in India.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c133381dc003705c7114e09edbbabd1d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e1756b1fdf1f723c7d9c0a86ff33ec7",
+    "text": "It is important to define core values and fair practices for the microfinance sector so as to ensure that microfinance services through MFIs are provided in a manner that benefits clients, and is ethical and dignified.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c133381dc003705c7114e09edbbabd1d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "218bcc90186f49b18011743f6b1e7eec",
+    "text": "4",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e1365bdc47b3e0cab34734dc8d073633",
+    "text": "Message from President, MFIN",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bcd670c53cfd5a83a2f9e76e59b0b812",
+    "text": "Season’s Greetings",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e5803963a7370a15ac75bd6f6dc3be60",
+    "text": "I am delighted that MFIN & Sa-Dhan as Self Regulatory Organisations (SRO’s) are releasing a joint Code of Conduct for the microfinance industry this month",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bcd670c53cfd5a83a2f9e76e59b0b812"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "16cb3f94e63817ae2143839ac5b73b7e",
+    "text": "The Code of Conduct has gone a long way in ensuring that all our members adhere to the agreed principles of how we do business with a sensitive client base,firmly establish best practices and also serve as a reference benchmark.It is also heartening to see many Code of Conduct assessments happening across the sector and also potential lenders & investors giving weightage to the reports to differentiate between entities.To have the sector rebound, grow with support from investors/lenders and 8 NBFC MFI’s out of the initial 10 entities which have been given an in principle SFB license from the RBI, is a clear vindication of the sector’s return to credibility since 2010.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bcd670c53cfd5a83a2f9e76e59b0b812"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "747f5b7e98aaceedc05e5985d08d3d99",
+    "text": "The common Code of Conduct will go a long way in presenting a uniform, updated & high standard of expectation from the member entities.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bcd670c53cfd5a83a2f9e76e59b0b812"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95aa6ea52d365d0618347e87bf843da9",
+    "text": "I wish to thank the MFIN & Sa Dhan CEO’s & their secretariat’s, the Governing Boards and the Members for their support & inputs to making this happen.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bcd670c53cfd5a83a2f9e76e59b0b812"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "aca4323b4f2c60cf1d2ef20184f96faf",
+    "text": "Manoj Kumar Nambiar President, MFIN 9th December 2015",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "506e4c0b636ae64623d370caf8c3b65e",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5ffbd430cc540aaf4b2d2c5bd4654411",
+    "text": "Message from Chair, Sa-Dhan",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "221e3254aaa47fc2e0178228032e8d05",
+    "text": "The contribution of microfinance sector in bringing vast numbers of people into the ambit of financial inclusion cannot be underestimated. Despite this fact, the sector had faced negative fallout. Sa-Dhan first responded to this with a voluntary code of conduct in 2006. This underwent many improvements and took the shape of a joint code of conduct of Sa-Dhan and MFIN for the entire sector. In light of the new SRO role for industry associations and other developments there was a need for revision of this document. The Working Group constituted for this purpose did an admirable job and I thank our industry well- wisher Shri N. Srinivasan for his efforts in giving final shape to the document. I thank SIDBI and the World Bank Group (IFC) for their guidance and support and MCRIL for its knowledge inputs. I am confident that the revised Code of Conduct will usher in a renewed era of responsible finance in microfinance sector.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "5ffbd430cc540aaf4b2d2c5bd4654411"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ad9dee6f2c98218cb0de575e82bd12b9",
+    "text": "Jayshree Vyas Chair Sa-Dhan 9th December 2015",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "76652378c87566cd0ea496f7c85c2f7e",
+    "text": "5",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7141503bcb3afb6b961a1f953dac3bd9",
+    "text": "6",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0d3cd574db4d112d1c16d83d7124c2bf",
+    "text": "Message from CEO, MFIN",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5248808c2f418b86cd57b98f3553ee6",
+    "text": "The evolution of microfinance in India has seen several iterations and has been a long and complex journey. Today we have several entities in the microfinance space transacting with low income households and providing them with basic access to unsecured funds. The average microfinance client is typically a household either in the middle or upper segment of the bottom of the pyramid with entrepreneurial aspirations. The vulnerability of this client stems from the fact of lack of access to essential services and lack of awareness that they can be accessed. Hence there is a need to ensure that the interests of such clients are protected and it is in this spirit of client protection and transacting responsible business that the Microfinance Industry has a Code of Conduct in existence. This a document voluntarily signed up to by Industry and enunciates ways and means of transacting business with a stress on compliance and ethical business practices.",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0d3cd574db4d112d1c16d83d7124c2bf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a906697d3da1cbfd057114fdf6922593",
+    "text": "The last Code of Conduct had been formulated about four years ago. The Microfinance industry has changed a lot since then. New micro regulations have been introduced by the Reserve Bank of India. Both Industry Associations, Sa- Dhan and MFIN, have been nominated as Self Regulatory Organisations (SROs) by the RBI. Member MFIs have gone on to become Universal Banks and Small Finance Banks. The second edition of the joint Code of Conduct incorporates relevant changes in the microfinance ecosystem. It was initiated and facilitated by MFIN and has been drawn together by a multi stakeholder Working Group comprising of representatives from SIDBI, M-Cril, IFC, Sa-Dhan and MFIN. The Working Group has spent a considerable amount of time and effort in putting this Edition of the Code of Conduct together.",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0d3cd574db4d112d1c16d83d7124c2bf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1e746e756260e292a58516e854e0f90",
+    "text": "I take this opportunity to individually acknowledge and thank the members of the Working Group. We had Vivek Malhotra and PK Nath from SIDBI, Gunjan Grover and Shraddha Jha from M-Cril, Girish Nair from IFC, Somesh Dayal from Sa-Dhan and Pallavi Sen from MFIN. I would also like to place on record our gratitude to Mr N Srinivasan, Industry Expert, who pulled and collated the various strands of discussion in the spirit of ‘public good’ and gave unstintingly of his time.",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0d3cd574db4d112d1c16d83d7124c2bf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8d220d1b0a5f4217847343401a566193",
+    "text": "Ratna Vishwanathan CEO, MFIN 9th December 2015",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e98c0c016a60bfd2dcacdcfc7d9d4f27",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1bd4b7e72c0534414cbd63bb523420b1",
+    "text": "Message from ED, Sa-Dhan",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c2c46e3c6e3388090c830987d23ece54",
+    "text": "The Code of Conduct for the Microfinance sector is basically a code voluntarily agreed upon by all participating institutions. A voluntary industry code of conduct sets out specific standards of conduct for an industry in relation to the manner in which it deals with its members as well as its customers. The benefits of such a code include greater transparency of the industry, greater stakeholder or investor confidence in the sector and ensuring compliance with the laws to minimize breaches. The reasons for developing a voluntary code of conduct are that it is more flexible than legislation and can be amended more efficiently to keep abreast of changes in the sector’s needs and is less intrusive than government regulation. Further the industry participants have a greater sense of ownership of the code leading to stronger commitment to comply and the code acts as a quality control within the industry.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1bd4b7e72c0534414cbd63bb523420b1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bfcde22eb0ff6eecd1f169c54ce506da",
+    "text": "The first Voluntary Mutual Code of Conduct for Microfinance was framed by Sa-Dhan as early as 2006. Later SIDBI and IFC facilitated Sa-Dhan and MFIN coming together for a joint code of conduct for the microfinance sector. Code of Conduct assessments evolved into essential instruments for evaluating an MFI for various purposes. Keeping in view the recent developments in the sector and both Sa-Dhan and MFIN being accorded the status of SRO by RBI it was felt that there was a need for revision in the Code of Conduct. MFIN initiated a Working Group comprising of Sa-Dhan, MFIN, World Bank Group (IFC) MCRIL and SIDBI. The process involved industry-wide consultations with inputs from a range of individuals and institutions. Shri N. Srinivasan facilitated the final discussions of the Committee and drafting of the Code. While technically the code is for NBFC- MFIs, Sa-Dhan is advocating this code as a framework which other MFIs should aspire to adhere to.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1bd4b7e72c0534414cbd63bb523420b1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e377cd122413c1b0cbed6aaba030c00",
+    "text": "We are confident that this code of conduct would ensure an orderly progress in the sector and enable all the industry participants reach the ultimate goal of taking financial services to the unserved and underserved populations and geographies of this country.",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1bd4b7e72c0534414cbd63bb523420b1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0e8266485687e5d9919154878da98964",
+    "text": "P. Satish Executive Director Sa-Dhan 9th December 2015",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2d3152777e006f88dc4576404911a2ed",
+    "text": "7",
+    "metadata": {
+      "page_number": 7,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "2f11c930e0c5f05d382962101f5eecea",
+    "text": "CONTENTS",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "926cc6b31df2c50354bbbeea3422bef9",
+    "text": "Preamble Message from President, MFIN Message from Chair, Sa-Dhan Message from CEO, MFIN Message from ED, Sa-Dhan",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6b84af97313d1a6bbff69dde4e5be56b",
+    "text": "3 4 5 6 7",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6a0317898b33bda89e1c312bebfa9ba3",
+    "text": "Part I Core Values of Microfinance Code of Conduct for Microfinance Institutions",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d163b5d0a11283cd7dd7eb105c27e06a",
+    "text": "11 12 12",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "6a0317898b33bda89e1c312bebfa9ba3"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1cee40ecc0e0c347b18258af452363e7",
+    "text": "Part II Application of the Code Code of Conduct I Integrity and Ethical Behaviour II Transparency III Client Protection IV Governance V Recruitment VI Client Education VII Data Sharing VIII Feedback/ Grievance Redressal Mechanism",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "6a0317898b33bda89e1c312bebfa9ba3"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "23f203d5110f725052f306c9707f449b",
+    "text": "12 12 13 13 13 14 15 16 17 17 17",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "6a0317898b33bda89e1c312bebfa9ba3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0de2c017d02c88d1b2f9d9a3ac7d86a9",
+    "text": "Part III Client Protection Guidelines for Microfinance Institutions (CPG)",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "53a70ba9f7c6e5dca501fd42a6271f41",
+    "text": "18 18",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "0de2c017d02c88d1b2f9d9a3ac7d86a9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "70ba884f8c36e055e43e54935b15b5c4",
+    "text": "Part IV Institutional Conduct Guidelines for Microfinance Institutions (ICG)",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ce0e13177fa829f02cb2c8b632862a10",
+    "text": "20 20",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "70ba884f8c36e055e43e54935b15b5c4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2148fd9809dff2e85400aeb616f2c4fc",
+    "text": "Annexure - MFIs’ Commitment to Customers",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "91afb8bb27f56aa4eed8113dc8c30046",
+    "text": "21",
+    "metadata": {
+      "page_number": 9,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2148fd9809dff2e85400aeb616f2c4fc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ee9a4904dc0a5f466d2bf78d14dd87af",
+    "text": "PART I",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd9efc09e2117b1668046388d02e7210",
+    "text": "CORE VALUES OF MICROFINANCE The Core Values of Microfinance which guide the microfinance institutions are as follows:",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee9a4904dc0a5f466d2bf78d14dd87af"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64a9ed6885294c754873c32791afe68f",
+    "text": "A. INTEGRITY \t To provide low- income clients - women and men - and their families, with access to financial services that are client focused, designed to enhance their well- being, and delivered in a manner that is ethical, dignified, transparent, equitable and cost effective.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee9a4904dc0a5f466d2bf78d14dd87af"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "093de18441fc60beab3e3a51365478f5",
+    "text": "B. QUALITY OF SERVICE \t To ensure quality",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee9a4904dc0a5f466d2bf78d14dd87af"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d85811beb93d9a6d2e1d61ded5fd64d0",
+    "text": "services to clients, appropriate to their needs, and delivered efficiently in a convenient and timely manner. \t To maintain high standards of professionalism based on honesty, non-discrimination and customer centricity.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee9a4904dc0a5f466d2bf78d14dd87af"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "88b411c2151fb99e7e5fa40bb00e654e",
+    "text": "C. TRANSPARENCY \t To provide complete",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee9a4904dc0a5f466d2bf78d14dd87af"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b4a8676b57bd01ef58e62d3e7ea76e4d",
+    "text": "and accurate information to clients regarding all products and services offered. \t To create awareness and enable clients and all other stakeholders to understand the information provided with respect to financial services offered and availed.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee9a4904dc0a5f466d2bf78d14dd87af"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d3974a89c49c63c3176ed097ae916bdc",
+    "text": "D. FAIR PRACTICES \t To ensure that",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eabd7574fef7caf58f73ec49ccc193f8",
+    "text": "clients are protected against fraud and misrepresentation, deception or unethical practices.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d3974a89c49c63c3176ed097ae916bdc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f27996d005a9eb62c06281fe46e7f408",
+    "text": "\t To ensure that all practices related to lending and recovery of loans are fair and maintain respect for client’s dignity and with an understanding of client’s vulnerable situation.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d3974a89c49c63c3176ed097ae916bdc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f7ac2f516f566d4e03af01e7f28f21f6",
+    "text": "E. PRIVACY OF CLIENT INFORMATION \t To safeguard",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "064097624bb8bd9e49e86f6894c9c80a",
+    "text": "personal information of clients, allowing disclosures and exchange of relevant information with authorized personnel only, and with the knowledge and informed consent of clients.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "f7ac2f516f566d4e03af01e7f28f21f6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9cf0b5b3f35ea0579730ebc6440ae429",
+    "text": "F. INTEGRATING",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6895837e5d9e773739cf51d583f39f1e",
+    "text": "SOCIAL VALUES INTO OPERATIONS \t To ensure high standards of governance and management focused on not only financial performance but also social impact of business.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9cf0b5b3f35ea0579730ebc6440ae429"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "37dd55bb1c640755a16e1590ed653729",
+    "text": "\t To monitor and report social as well as financial data. \t To assess the social performance and social relevance of the institution from time to time",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9cf0b5b3f35ea0579730ebc6440ae429"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fe5ec023e05c9ff6a5cc86a069a997fe",
+    "text": "G. FEEDBACK &",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9cf0b5b3f35ea0579730ebc6440ae429"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5881bc8b205117b2e0e33d07b3cfaf71",
+    "text": "GRIEVANCE REDRESSAL MECHANISM",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6dcbcdb83ebf75305b9a3d8744fa3c6e",
+    "text": "\t To provide clients",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "5881bc8b205117b2e0e33d07b3cfaf71"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "aa0cfdaeb798611bfcc04d1c55962646",
+    "text": "formal and informal channels for feedback and suggestions. \t To consistently",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f40a64c880640c02be3ed72e10db3a82",
+    "text": "assess the impact of services in order to enhance competencies and serve clients better. \t To provide a formal and easy to access grievance redress mechanism for clients.",
+    "metadata": {
+      "page_number": 11,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "aa0cfdaeb798611bfcc04d1c55962646"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "75e9ca96d46825264475a58d9f270913",
+    "text": "PART II",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "411fd257ad98a6a220dd13fa3d4d5754",
+    "text": "CODE OF CONDUCT FOR MICROFINANCE INSTITUTIONS",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ebae1373db8412e37e017f3854ab045",
+    "text": "All Microfinance Institutions, regardless of form of organisation, are required to follow all regulatory norms as well as consumer protection practices (specifically, RBI’s Guidelines on Fair Practices issued for NBFCs) laid down by the government and the regulators in both letter and spirit. This Code of Conduct lays down additional requirements to enhance and improve sector practices. The code of conduct is to be followed by all MFIs.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "411fd257ad98a6a220dd13fa3d4d5754"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "407bbb1b2f7997629f0712fb67bfa021",
+    "text": "development services including marketing of products or services made or extended by the eligible clients or for any other purpose for the welfare and benefit of clients.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "411fd257ad98a6a220dd13fa3d4d5754"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "493a21beb8ff89a771cc718789926a62",
+    "text": "7. Finance Plus services provided by MFIs such as",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "411fd257ad98a6a220dd13fa3d4d5754"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "55fa818e97ddab5ebcfbe49efb546a02",
+    "text": "health, financial literacy, vocational training etc.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6430a3ed0244b260df23fc61a66e7788",
+    "text": "MFIs must agree to: 1. Promote and strengthen the Microfinance movement in the country by bringing low- income clients to the mainstream financial sector.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "55fa818e97ddab5ebcfbe49efb546a02"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "15d5a6e9f5aedbb154dac2a636ae2c60",
+    "text": "APPLICATION OF THE CODE",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9225df684f5910ec60ef48b4deb568e0",
+    "text": "2. Build progressive, sustainable, and client-",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "15d5a6e9f5aedbb154dac2a636ae2c60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c5c7911b4b1be3d834f2e378ac2d2b00",
+    "text": "This Code applies to the following activities undertaken by Microfinance Institutions: 1. Providing financial services to clients,",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "15d5a6e9f5aedbb154dac2a636ae2c60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c83c0b115b5ddc20608673835eaf750",
+    "text": "centric systems and practices to provide a range of financial services (consistent with regulation) to clients.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "15d5a6e9f5aedbb154dac2a636ae2c60"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8fcaf506ab97ff9ce02fe6cc32f53b6b",
+    "text": "individually or in groups either on its own or as an agent.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "2f11c930e0c5f05d382962101f5eecea"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "24e3b6a43ee084d9fd493ac1fe6368a1",
+    "text": "2. Recovery of credit provided to clients. 3. Collection of thrift from clients, wherever permitted by law.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8fcaf506ab97ff9ce02fe6cc32f53b6b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "61108aff40c7681d73b20377c66c2cc3",
+    "text": "4. Providing insurance, pension services and remittance services, or any other related products and services.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8fcaf506ab97ff9ce02fe6cc32f53b6b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "80f66f27cf529a9d9879ea8a2357e895",
+    "text": "5. Formation of any type of community",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8fcaf506ab97ff9ce02fe6cc32f53b6b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eba5d0bd14bcb823cc797afe18d31e6f",
+    "text": "collectives including self-help groups, joint liability groups and their federations.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8fcaf506ab97ff9ce02fe6cc32f53b6b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2dca8f25d3818895ec2c516492413415",
+    "text": "3. Promote cooperation and coordination among themselves and other agencies in order to achieve higher operating standards and avoid unethical practices – including competitive business practices - in order to serve clients better. All institutions providing microfinance services should adhere to the core values of Microfinance and abide by the Code of Conduct, as mentioned in the following paragraphs.",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8fcaf506ab97ff9ce02fe6cc32f53b6b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "151f3768d329cf2ce815649333969b71",
+    "text": "6. Livelihood promotion services and Business",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8fcaf506ab97ff9ce02fe6cc32f53b6b"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "693d18b4369bcd65de50e7b9e65e7fe1",
+    "text": "12",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ca851d283cb6346c467957d5f53cbc06",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 12,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c8a9e57e953fd4dcc23bb2cb0401a46b",
+    "text": "CODE OF CONDUCT",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "04ff6fb32c47298b14ffc18fc9231a04",
+    "text": "I Integrity and Ethical Behaviour",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "34bbcc2c3fa0dedeb26f94a5bbbf50a3",
+    "text": "1",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "09eca5b78d6f019afb3d29859358076f",
+    "text": "2",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7c2edb930f3d8bbb278294c9ca68f7ca",
+    "text": "3",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "083af90874f9a24d3b11e97a2de1b9d8",
+    "text": "4",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e2b0d75739532829d1d059dd6be30d67",
+    "text": "MFIs must design appropriate Board approved policies and operating guidelines to treat clients and employees with fairness and dignity.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6832511baa37b2ac43c8dda2e474a3e9",
+    "text": "MFIs must incorporate transparent and professional governance system to ensure that staff and persons acting on their behalf are oriented and trained to put this Code into practice.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dd303cc8e9831241cf2cdbb04ccfa4c5",
+    "text": "The incentive structure for the staff should aim at promoting good business and service practices towards customers.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d51e6a1439ad544f27f50c467206b9b",
+    "text": "MFIs must educate clients on the Code of Conduct and its implementation",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "04ff6fb32c47298b14ffc18fc9231a04"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "425633bc5baeb83150062c5d42e58b8e",
+    "text": "II Transparency",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b7c775d04e9d17818128e61b28169da",
+    "text": "clients in the official regional language or a language understood by them.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "425633bc5baeb83150062c5d42e58b8e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2ede2655880795326ab5bec0f7fa26d9",
+    "text": "1. MFIs must disclose all terms and conditions",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "425633bc5baeb83150062c5d42e58b8e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d91d35aaf3acfc3b1c6828127e99c61a",
+    "text": "3. At the minimum, the MFI must disclose the",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "425633bc5baeb83150062c5d42e58b8e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ff21808c02d2b59a73c8709182a748a1",
+    "text": "to the client, in a form and manner that is understandable, for all services offered. Disclosure must be made prior to disbursement in accordance with the Reserve Bank of India’s (RBI) Fair Practices Code through the following documents.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "425633bc5baeb83150062c5d42e58b8e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2eaa06ed33ac78f6201e4b28459d8ecb",
+    "text": "following terms:",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "425633bc5baeb83150062c5d42e58b8e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3389ff6e5e09175a609e7be51ff2cfe5",
+    "text": "a. Rate of interest on a reducing balance",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "425633bc5baeb83150062c5d42e58b8e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a615e8ab360035fce94de55e85187938",
+    "text": "method",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bdf43561b3c60de4aa03677284e27524",
+    "text": "b. Processing fee",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f1d2bf2c26a99980799999f0c91f9688",
+    "text": "c. Any other charges or fees howsoever",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b4d9bed183821ab6ec403664684e297c",
+    "text": "a.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "866e1dd18430ec297e59689026269d12",
+    "text": "Individual sanction letter",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3613d3a44df87c656b3b6735c706f4f5",
+    "text": "described",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "866e1dd18430ec297e59689026269d12"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2a5eec9c932627b54b59dbb797ab0a48",
+    "text": "b. Loan card",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "82448e42d91a5d293112e38ecf205cb9",
+    "text": "c. Loan schedule",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "31bb540bc95bc0f0b5e5b48df6aba59e",
+    "text": "d. Passbook",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ffb7fd8179e194eff4dd84226c269d5",
+    "text": "Further, disclosure should be made through Group/Centre meetings for securing clients’ informed consent. (Details can be printed on a paper and all borrowers can sign on the same as acknowledgement of their acceptance).",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "31bb540bc95bc0f0b5e5b48df6aba59e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6d535d8f150492b33e5995ec7473598",
+    "text": "d. Total charges recovered for insurance",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "31bb540bc95bc0f0b5e5b48df6aba59e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "163e8492e715e9ef86f1068f8a8e3d35",
+    "text": "coverage and risks covered",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "31bb540bc95bc0f0b5e5b48df6aba59e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f5860ddfa0fa24da5d65e81251e60e99",
+    "text": "4. MFIs must communicate in writing, charges",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "31bb540bc95bc0f0b5e5b48df6aba59e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6724ebfe34f5c7781e648a265a6d10d0",
+    "text": "levied for all financial services rendered. Fee on non-credit products/services will be collected only after prior declaration to the client.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "31bb540bc95bc0f0b5e5b48df6aba59e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e68198a35388c90eeae9f77fda660d2c",
+    "text": "5. MFIs must declare all interest and fees",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "31bb540bc95bc0f0b5e5b48df6aba59e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e8d659c8bf07ffae4409a172c148609c",
+    "text": "payable as an all-inclusive Annual Percentage Rate (APR) and equivalent monthly rate.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "394c3f69342e5081a72f844280f81583",
+    "text": "2. MFIs must communicate all the terms and",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e8d659c8bf07ffae4409a172c148609c"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d970ad722cc36381830f4f590f37f0a",
+    "text": "6. MFIs must follow RBI’s guidelines with respect to interest charges and security deposit.",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e8d659c8bf07ffae4409a172c148609c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "843a56a1af5f28373dc6cb18a437229d",
+    "text": "conditions for all products/services offered to",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e8d659c8bf07ffae4409a172c148609c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d7177a1c2e64b60a4fead6189e228ace",
+    "text": "13",
+    "metadata": {
+      "page_number": 13,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c620f1c749ccf0532815ff59817e3b67",
+    "text": "7. Formal records of all transactions must be",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "07f2ef982cc59bd4d7f7f49635422505",
+    "text": "maintained in accordance with all regulatory and statutory norms, and borrowers’ acknowledgment/acceptance of terms/ conditions must form a part of these records.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1aa926d647903eb982e43fbb42c2dcbb",
+    "text": "8. Where a loan is not sanctioned against an",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "349d51ffa3c4f963943e4c7dc8122a81",
+    "text": "accepted application, MFIs must disclose the reasons for rejection.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8dad7a54d433d5a9c7982a42cd2e2cf7",
+    "text": "exceptions to bundling may be made with respect to credit life, life insurance & livestock insurance products, which are typically offered bundled with loans. The terms of insurance should be transparently conveyed to the client and must comply with RBI & Insurance Regulatory and Development Authority (IRDA) norms. Consent of the client must be taken in all cases.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6e534ed11ed2f8f9977c79a3055c8868",
+    "text": "9. Place in public domain the assessment reports on code of conduct compliance.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5af7c2cb3eb9307b0e9ad37aca5cbd46",
+    "text": "10. All MFI should put their annual reports and",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4dd30beec95c4c3b3615f7e81e4fb23",
+    "text": "annual financial statements in public domain (preferably on their websites) immediately after approval of their Board/AGM",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ccbdf082ab30f19880a7c0fe384924bf",
+    "text": "B Avoiding Over-indebtedness 1. MFIs must conduct proper due diligence as per their internal credit policy to assess the need and repayment capacity of client before making a loan and must only make loans commensurate with the client’s ability to repay.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "176b11f10b969daccf530423715bdc1c",
+    "text": "III Client Protection",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a58510284473d59126da5757ea718206",
+    "text": "A. 1. MFIs must ensure that the provision of micro",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "176b11f10b969daccf530423715bdc1c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4051b6f9639d446275429c5315bf4ded",
+    "text": "Fair Practices",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "404da74922aadc9e0cadaa8a1e6804c6",
+    "text": "finance services to eligible clients is as per RBI guidelines.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d9581b17f062bc044c7c980edc4d1603",
+    "text": "2.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5fe21580817f7541c8d7fc1aa2f3d49",
+    "text": "If a client has loans from 2 separate MFIf, then irrespective of the source of the loans, a MFI shall not be the third lender to that client. This should be validated by the Credit Bureau Report prior to extension of the loan.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5ccce569fad333cb5a04e0ce3cb21a06",
+    "text": "2. MFIs should offer only financial products",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9f3f723b2cdec44fccdfed2aeef157c2",
+    "text": "and services that have been approved by the concerned regulatory authority to their customers (even when acting as agents of other financial institutions).",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53c2fab4b656678ae253ebe64076f557",
+    "text": "3. MFIs must not, under any circumstance, breach the total debt limit for any client, as prescribed by RBI. This should be validated by the Credit Bureau Report prior to disbursement of the loan.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "531b56f0b97d47367989e4dfc7a10314",
+    "text": "3. MFIs must obtain copies of relevant",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4de10bba7b3aa7afb95c70b25993a331",
+    "text": "documents from clients, as per standard KYC norms. Additional documents sought must be reasonable and necessary for completing the transaction.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bccf92d7e58f342bae01f8584a62ad5f",
+    "text": "4. The decision on loans must be taken within a reasonable of time. MFIs should indicate the time limit within which customers can expect a decision on their application and if sanctioned, the time taken for disbursement of loan.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "448460975d857490e131cd015406f177",
+    "text": "4. MFIs after due verification of credit bureau reports will ensure that loans given on the basis of joint liability of group of borrowers (JLG loan) is restricted to Rs 60,0001 per borrower. Where the loan to a specific borrower exceeds Rs 60,000, or the loan takes the total debt of the borrower above Rs 60,000, such a loan should be given as an individual loan without involving the JLG. MFIs will take necessary steps to have appropriate systems and staff with required competencies to deal with individual loans.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "939e68c5a01c8e3c0ffd425345de2caa",
+    "text": "5. Products should not be bundled. (Bundling in this context means making purchase of a product or service conditional for provision of another product or service). The only",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "79661db101347265b11de4175ae59d46",
+    "text": "5. MFIs should carry out test checks of efficacy of their processes relating to avoidance of over-indebtedness through additional credit bureau reports on select sample of clients",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c604e159cfefebb0663a4dbdd888b5a",
+    "text": "1 The cap of Rs 60000 will be reviewed by SRO from time to time based on factors such as inflation rates and real value of loans.",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4051b6f9639d446275429c5315bf4ded"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "be8e83f9e16a53faf118d4023b3e0e7f",
+    "text": "14",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "577cd106d95671b8930be30ac7af0ca2",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 14,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be440cf9576dec226afeb9dfb2348d56",
+    "text": "after loan disbursement. The result of this verification should be reviewed by the Board periodically.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6b198c39e5eff4e8eb231a0dde630c22",
+    "text": "6. To reduce the errors in identification of",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a32c9b9bd8f4fc3638a254310ed89b6",
+    "text": "borrowers in credit bureau reports, MFIs will move towards adoption of UIDAI number (Aadhaar number) based KYC within a two year period (from the day this COC comes into effect). As an initial measure, MFIs will ensure that while providing second and subsequent cycle loans the borrowers are identified with their Aadhaar number as part of KYC. The Aadhaar numbers will then be used by the Credit Bureaus for producing CIR.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "11e4c89f304aaed3673f6b042eb99770",
+    "text": "process for dealing with clients, at each stage of default.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4852d0d996ae3402b1ad5fdcfe2d9866",
+    "text": "5. MFIs must not collect shortfalls in collections from employees and their HR policies must categorically denounce this practice. However in proven cases of frauds by employees the MFIs can recover the money from employees. D Privacy of client information MFIs must keep personal client information strictly confidential. Client information may be disclosed to a third party subject to the following conditions:",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b18ef357991bbf6ae8a5d3847ebe24d",
+    "text": "a. Client has been informed about such",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "63244b66599abe2f6085bbfc10f72e6f",
+    "text": "disclosure and prior permission has been obtained in writing.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b2ad1f850aeb315363836b3cace4fe8d",
+    "text": "C Appropriate interaction and collection",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "71b4dec94d18ca818152cb0aea96444b",
+    "text": "practices",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7d4a17e1bec7b9f6fadab6a7c1f5f96e",
+    "text": "1. MFIs must have clearly defined guidelines for",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "71b4dec94d18ca818152cb0aea96444b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4fa8a1c41dc82d664948684d91ccc870",
+    "text": "b. The party in question has been authorized by",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "71b4dec94d18ca818152cb0aea96444b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "275289d3bceaeb8de7b06b36d88c0bfd",
+    "text": "the client with intimation to the MFI to obtain client information from the MFI.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "71b4dec94d18ca818152cb0aea96444b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f65063835b6818c55205bb7be2e0835a",
+    "text": "employee interactions with clients.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4a2474510077389fc2ec2d6e4dfda1d1",
+    "text": "c.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2024c0ddc0380db41576a91bec07d85c",
+    "text": "It is legally required to do so.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "632a5658cc1423eb1616e67ae20ca61f",
+    "text": "2. MFIs must ensure that all staff and persons",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d56f5b6d1cb7b615988a44e24d62152b",
+    "text": "acting on behalf of the MFI",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea6e5610b44e41e8a4b95986d2120f91",
+    "text": "a. Use courteous language, maintain",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bba7ed003a2d94310cc89a0d3fbeb415",
+    "text": "decorum, and are respectful of cultural sensitivities during all interaction with clients.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "94ec209fbe4303b265b6a84acd4638d5",
+    "text": "d. This practice is customary amongst financial institutions and available for a close group on reciprocal basis (such as a credit bureau) provided that the i) clients’ prior consent has been obtained and ii) the receiver of such information is also bound by these conditions to keep the client information confidential.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1a0e82b2972d5c7ea7ae3f7ba83ff47",
+    "text": "b. DO NOT indulge in any behaviour that in any manner would suggest any kind of threat or violence.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b7a79774342df3aa5944adb5c961d729",
+    "text": "c. DO NOT contact clients at odd hours, as per the RBI guidelines for loan recovery agents.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6446db68d21a402d921037667268f644",
+    "text": "d. DO NOT visit clients at inappropriate",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04ea1d0ba797db23d90a275880154c66",
+    "text": "IV Governance MFIs must incorporate a formal governance system that is transparent and professional, and adopts the following best practices of corporate governance: 1. MFIs must observe high standards of",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ba9b745355b52b46e325044811afb6d",
+    "text": "occasions such as bereavement, etc., to collect dues even if two or more successive repayments are not received",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e957117659d20cc0f4039158b0082693",
+    "text": "3. MFIs must provide a valid receipt (in whatever",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ab3e6e38f9cfa0160091415e7850359",
+    "text": "form decided by the MFI) for each and every payment received from the borrower and record the payment in the loan passbook/loan card with the client.",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c2204c52c24aab5abf3f69ad2aef9c74",
+    "text": "governance by inducting persons with good and sound reputation as members of Board of Directors/Governing body and seek to comply with the best standards stipulated in Companies Act, RBI regulations and the Stock Exchange regulations for listed companies (even though the MFIs may not be companies or listed in a stock exchange).",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9fde325f40121d57a80ba19182fe00cd",
+    "text": "4. MFIs must have a detailed Board approved",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4a2474510077389fc2ec2d6e4dfda1d1"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c6ea27d320dcb970c27691c09d927bf8",
+    "text": "15",
+    "metadata": {
+      "page_number": 15,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ff960a25f87ab476e2489634b4a1bbf9",
+    "text": "2. MFIs will endeavour to have independent directors to the extent of 1/3rd of the Governing Board.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d409d783bdf186c00699c8474309c7fd",
+    "text": "3. MFIs must have a Board approved debt",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50eb2f3a102c12ef7405e7635af3b25a",
+    "text": "restructuring product/program for providing relief to borrowers facing repayment stress.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c6bac6620d266bec9f456bf2abe17843",
+    "text": "financial statements by qualified auditor/s.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "128f6f1e184bb29612edbdd7c3def8fe",
+    "text": "6. MFIs must put in best efforts to follow the",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c6bac6620d266bec9f456bf2abe17843"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8fd9791caba59a81a7fc042567cb1c21",
+    "text": "Audit and Assurance Standards issued by the Institute of Chartered Accountants of India (ICAI).",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c6bac6620d266bec9f456bf2abe17843"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8a0c3f210f07c2c131d17a12543a1bac",
+    "text": "7. MFIs must place before the Board of",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c6bac6620d266bec9f456bf2abe17843"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0ae7933e8e8406cba913b9cc0e3ea70b",
+    "text": "4. MFIs will appoint an audit committee of",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c6bac6620d266bec9f456bf2abe17843"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a5363e91cf711e4f916c5dab5d597cde",
+    "text": "the Board with an independent director as chairperson",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "acae1e22cce2310297ddf99280d895ec",
+    "text": "5. MFIs must ensure transparency in the",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a5363e91cf711e4f916c5dab5d597cde"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7d30125c53a7df65f20a787177a661ad",
+    "text": "maintenance of books of accounts and reporting/ presentation and disclosure of",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eec0082e1745c351c5b56f0497a33573",
+    "text": "Directors, a compliance report indicating the extent of compliance with this Code of Conduct and the functioning of the grievance redressal mechanism at various level of management, specifically indicating any deviations and reasons therefore, at regular intervals, as may be prescribed by Board.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "7d30125c53a7df65f20a787177a661ad"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bc85418f40cd6edd5b00635e23fdf26e",
+    "text": "V Recruitment",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "acabf31099b367323e3471c82a7a76d5",
+    "text": "The code covers all MFI staff.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "adffab8fd4217ccc73aac7aa9bd14668",
+    "text": "1",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "984688e9390eb6bd8491d00608d14e4d",
+    "text": "As a matter of free and fair recruitment practice, there will be no restriction on hiring of staff from other MFIs by legitimate means in the public domain like general recruitment advertisements in local newspapers, web advertisements, walk-in interviews, etc.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b9260fc5ddbe2a057eb57be0ad6f2398",
+    "text": "2",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f6b1147d060134c4f418dd95dbc1014",
+    "text": "Whenever an MFI seeks to recruit an employee in another MFI, it will be mandatory to seek a reference check from the current employer. The reference check will be sought from current employer only after an offer is made and an offer letter is issued to the prospective employee.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1fa184dba9009000d9a977fead56fde4",
+    "text": "3",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "623a47056f20f884632d7c232643ba81",
+    "text": "MFIs should respond to the reference check request from another MFI within two weeks.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6e0c0bcc57c82e757923f8a026b2292a",
+    "text": "4",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b9c048131e5bfb4234b1292299c075b",
+    "text": "MFIs must honour notice period as contractually agreed between employer and employee subject to a minimum of one month for an outgoing employee",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bf55dcef7a3eaa9c8b6152d05b230d0b",
+    "text": "5",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b35e63d32d8924b3602604fe2135ced",
+    "text": "No MFI shall recruit an employee of another MFI, irrespective of the grade/level of the employee, without the relieving letter from the previous MFI employer. An exception can however be made in instances where the previous employer (MFI) fails to respond to the reference check request within 20 days. All MFIs must provide such relieving letter to the outgoing employee in case he/she has given proper notice, handed over the charge and settled all the dues towards the MFI, except in proven cases of fraud or gross misconduct by the employee.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ce8f3fe4794835dc6bc891d9128b6ea7",
+    "text": "6",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cfa56c509c9755f8cd4cf598ce07ea62",
+    "text": "Whenever an MFI recruits from another MFI, at a level up to the Branch Manager position, the said employee shall not be assigned to the same block where he/she was serving at the previous employer, for a period of 1 year.",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "bc85418f40cd6edd5b00635e23fdf26e"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8e1fef89027973ff57a2f7db14be037a",
+    "text": "16",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c3072b1f3d06398f62a8b4d01e330524",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 16,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "703a1c6c2f03bfb2c7ce4c65dea75135",
+    "text": "VI Client Education 1. MFIs must have a dedicated process to raise clients’ awareness of the options, choices and responsibilities vis-à-vis financial products and services available.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9d3b9e2493317d1968e61fbf21f2fe2",
+    "text": "2. New clients must be informed about the",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4aea2dee938d325df9f204bb98041da",
+    "text": "organization’s policies and procedures to help them understand their rights as borrowers.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bcd1dff3cb9675de06ae3eba4264096a",
+    "text": "3. MFIs must ensure regular checks on client",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d86bae89ed94b3556873c1f9c33a105",
+    "text": "at the branch for recording complaints/ grievances, iii) acknowledgement for receipt of the complaint iv) a time limit for resolution of the complaint, v) a clear appeal procedure in case where customer is not satisfied with the solutions offered by the MFI, vi) nodal staff in the branch to guide customers to lodge grievance with RBI or SRO, vii) assurance to customers that they will be treated fairly despite the complaint/grievance being lodged.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc77bfa74ec36cbb44da218c22e2ec2b",
+    "text": "awareness and understanding of the key terms and conditions of the products/ services offered / availed. Customer feedback should be gathered, as part of internal audit systems or through some other regular monitoring such as a system of calls to random sample of customers. The feedback from such monitoring should be reported to the board periodically.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1ca3b9fd15b1c409d168ec90d01d2ce3",
+    "text": "2. MFIs must inform clients about the existence and purpose of these mechanisms and how to access them.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7b8bcdc60389e985cae1228cdcbd753c",
+    "text": "3. MFIs must designate at least one grievance redressal official to handle complaints and/ or note any suggestions from the clients and make his/ her contact numbers easily accessible to clients.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7d307e248807c3659bb7e399ff8cb765",
+    "text": "VII Data Sharing 1. MFIs must share complete client data with",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "da25d74b6ed085fbdac9e4638642ce63",
+    "text": "4. MFIs must display contact number and",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "669d6d0bd147c38104b4b391b9cfef18",
+    "text": "all RBI approved Credit Bureaus, as per the frequency of data submission prescribed by the SRO2.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "853300fdb1a144ddd182d48d95b73920",
+    "text": "address of SRO (as applicable) nodal official and details of the grievance redressal system of the SRO.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a050ab0c73486a44d7f707648e47fe09",
+    "text": "2. All MFIs should provide the data and",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5559cd23d1e73b8e145d1e4fdfbbbbd9",
+    "text": "information called for by all supervisory and regulatory bodies including the SRO",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "99b44028c3cbc76fda7b115e14025983",
+    "text": "5. Each MFI will have an appropriate mechanism for ensuring compliance with the Code of Conduct.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53c40f0a20ac2a39d7664377ad72f114",
+    "text": "6. Where complainants are not satisfied with",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1868d7fb1e7a27ff7ae96827fc18cdd8",
+    "text": "VIII Feedback/ Grievance Redressal",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b96ff5f747729b31b864c918c595829d",
+    "text": "Mechanism",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cbf7110b18abaef200105ce3c6f5b804",
+    "text": "1. MFIs must establish dedicated feedback and grievance redressal mechanisms to correct any error and handle/receive complaints speedily and efficiently. The minimum standards required of the GRM are i) an easy procedure for recording a complaint over phone - with details of phone numbers printed on loan cards, ii) a staff assisted procedure",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b96ff5f747729b31b864c918c595829d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "512cb28397567876f9a07487c1abe446",
+    "text": "the outcome of the investigation conducted by the concerned MFI into their complaint, they shall be notified of their right to refer the matter to the grievance redressal mechanism established by the SRO, as applicable.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b96ff5f747729b31b864c918c595829d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41e96cdf469ec3107c3bf0ba2a8972f3",
+    "text": "7. MFIs should prepare a monthly report on",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b96ff5f747729b31b864c918c595829d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2910b6a0de89cc3de3995ebb434688b7",
+    "text": "grievances received, resolved and pending for a senior management review and periodic reports to the board.",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b96ff5f747729b31b864c918c595829d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5db452bc8da5e85b74ee99d9ffac238",
+    "text": "2SRO shall mean an industry body having been recognized as the Self-Regulatory Organization for NBFC-MFIs by the RBI",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b96ff5f747729b31b864c918c595829d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f54040b2756e5a69ee00f845174ccb20",
+    "text": "17",
+    "metadata": {
+      "page_number": 17,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "099f81a0c0d2b008e1fe0509d4ca0102",
+    "text": "PART III",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1d986b1808195cd85fff87a1f1846046",
+    "text": "CLIENT PROTECTION GUIDELINES FOR MICROFINANCE INSTITUTIONS (CPG)",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bc3db3588a07368dadb772b3c24d4518",
+    "text": "The CPG states that all MFIs, regardless of their form:",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "657656a0e9b31f519ceb154e413e1869",
+    "text": "b. Processing fee c. Any other charges or fees howsoever",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e770a83c9d82c48a27888ddffe7cab5",
+    "text": "described",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "24135fe5f02f8de824e0e59ca54b4895",
+    "text": "Shall display the Client Protection Code in all branches and offices in English and the local language, in plain view.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1821ec2f48982e5166d8d15b659c9515",
+    "text": "d. Total charges recovered for insurance",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42da5dde57b85118cd474bb1d48914d8",
+    "text": "coverage and risks covered",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7138b4a9502463b877f6fee1414cd7b",
+    "text": "7. Shall communicate in writing, charges levied",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8aa4644a1fdf69f95d25338fa44192e1",
+    "text": "1. Shall endeavour to provide micro finance services to all eligible clients, as per RBI guidelines.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b9e4d743ca18a397a8192d088a796105",
+    "text": "for all financial services rendered.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "afcd4025e232230e5ad4e72151faae09",
+    "text": "8. Shall not collect fee on non-credit products/",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "099f81a0c0d2b008e1fe0509d4ca0102"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8f975aa57d7fccb94c227af386ca7a83",
+    "text": "services without prior declaration to the client.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0cb74e2a1719ce3ff27419eca50115d8",
+    "text": "2. Shall educate clients, staff, and any persons",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8f975aa57d7fccb94c227af386ca7a83"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b6d8fc77eba3c291707e57ec8f5ec5f",
+    "text": "9. Shall declare all interest and fees payable as",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8f975aa57d7fccb94c227af386ca7a83"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6acce6b21d9e758ab452cc19aa33258",
+    "text": "acting on their behalf on the Code of Conduct and its implementation.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8f975aa57d7fccb94c227af386ca7a83"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "67ebdcf2b55000fcdab0d934e312bd2d",
+    "text": "an all-inclusive APR and equivalent monthly rate.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "791a54f92410fafafaf8b740cd5de85f",
+    "text": "3. Shall disclose all terms and conditions to the",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "67ebdcf2b55000fcdab0d934e312bd2d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95d7d9e925056bf98aa04e8b8b5f6e47",
+    "text": "client for all products/services offered, prior to disbursement, in accordance with the Reserve Bank of India’s (RBI) fair practices code through the following documents. a. b. Loan card c. Loan schedule d. Passbook",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "67ebdcf2b55000fcdab0d934e312bd2d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f14a60351f5544df4ddc6576778c05b2",
+    "text": "Individual sanction letter",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1e05f42855c1dafc772f1131465d2b84",
+    "text": "10. Shall follow RBI’s guidelines with respect to interest charges and security deposit.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "f14a60351f5544df4ddc6576778c05b2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e3fca3ea6919f24c9d2c1c1f9bfdad35",
+    "text": "11. Shall obtain copies of relevant documents from clients, as per standard KYC norms. Additional documents sought must be reasonable and necessary for completing the transaction.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "f14a60351f5544df4ddc6576778c05b2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f094fed3adeec52ea7801d755b8723e3",
+    "text": "12. Shall disclose reasons for rejection of loans to",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "f14a60351f5544df4ddc6576778c05b2"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "90ac1813d35426bcb959d117d5b020b3",
+    "text": "applicants.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5360a320fe97d4a39d582ef64aaa9654",
+    "text": "In addition, disclosure should be made through Group/Centre meetings for securing clients’ informed consent. (Details can be printed on a paper and all borrowers can sign on the same as acknowledgement of their acceptance).",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e21bb98c4ea83044f07c8c94960dbddc",
+    "text": "13. Shall indicate the time limit within which",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5954fd1ca51fe85872f4eb1d86f847d1",
+    "text": "applicants/customers can expect a decision on their application and if sanctioned, the time taken for disbursement of loan.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7b9a43ad7f366acfc4d7f101925066e3",
+    "text": "5. Shall communicate all the terms and conditions",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4307a4693850234b67d6738459783b1b",
+    "text": "for all products/services in the official regional language or a language understood by clients.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6be78933a0555a3545a1b4cf17a4348b",
+    "text": "6. Shall disclose the following terms:",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5ff973d6be4dab5550b22e12a00338f5",
+    "text": "14. Shall not bundle products, except for credit life, life insurance & live-stock insurance products. The terms of insurance should be transparently conveyed to the customer and must comply with RBI & IRDA norms. Consent of the client must be taken in all cases.",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d181d1941e8cb80340d30574c0b88535",
+    "text": "a. Rate of interest on a reducing balance",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "90ac1813d35426bcb959d117d5b020b3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c74f5cf4ce4e5b75f502fe0759655797",
+    "text": "method",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4f0233ec138ad4a1a8da94edd73c89a8",
+    "text": "18",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "230ed0a041e28d73681bc0531cf6a02f",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 18,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9e09a2cda1b8277932ba4c1a352eb7f",
+    "text": "15. Shall conduct proper due diligence to assess the need and repayment capacity of client before making a loan and must only make loans commensurate with the client’s ability to repay.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd2251423b9b139b445d16b8f41ea242",
+    "text": "22. Shall follow the debt restructuring mechanism adopted by the MFI for borrowers under liquidity stress.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9211a8a403c2b82df5e4328db8e9304c",
+    "text": "23. Shall keep personal client information strictly",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b020de56ce683a7c9463ee23b27d336e",
+    "text": "confidential.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0611398aaa1b702f1f62767f5a493981",
+    "text": "16. Shall not be the 3rd lender to a client if",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b020de56ce683a7c9463ee23b27d336e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f1c77363ee24568dbe0f82ea1b4fc0b",
+    "text": "the client has loans from 2 other lenders (irrespective of the source of loan).",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b020de56ce683a7c9463ee23b27d336e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ffb6fc89d1e19f2c128986001342ca39",
+    "text": "24. Shall disclose client information to a third party only under the following conditions:",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b020de56ce683a7c9463ee23b27d336e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "93fe2b533bdb0b157c4e24e4ad4223d9",
+    "text": "17. Shall not breach the total debt limit for any client, as prescribed by the RBI or Central/ State Government or SRO",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b020de56ce683a7c9463ee23b27d336e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef88982d0b5ffc77f80b17a27fc238fc",
+    "text": "a) Client has been informed about such disclosure and permission has been obtained in writing.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b020de56ce683a7c9463ee23b27d336e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6884bfae5c0d7ca7cbac47aa71f45360",
+    "text": "18. Shall ensure that all employees follow",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b020de56ce683a7c9463ee23b27d336e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1f2a2c9da744ed9554da39823edb2a69",
+    "text": "company guidelines for interaction with clients.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0893919adacbba8ca321ed04115e0fa",
+    "text": "b) The party in question has been",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1f2a2c9da744ed9554da39823edb2a69"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2a01104ee855ad9b184bb955b2c59ce3",
+    "text": "authorized by the client to obtain client information from the MFI.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1f2a2c9da744ed9554da39823edb2a69"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7dafe0d5a8c106a5851893b5ca837ea5",
+    "text": "19. Shall ensure that all staff and persons acting",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1f2a2c9da744ed9554da39823edb2a69"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "213ff92a4fd8c7c3144c7061091555ff",
+    "text": "for the MFI or on behalf of the MFI:",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0edd5392e5894c0e43452aa1a47326f",
+    "text": "a) Use courteous language, maintain",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d318771436880b4fe0eadf3f58f08383",
+    "text": "decorum, and are respectful of cultural sensitivities during all interaction with clients.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "936ad9eb9a7bb30a7c25024e1bc25360",
+    "text": "b) DO NOT indulge in any behaviour that in any manner that would suggest any kind of threat or violence to clients.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e6a4cb73ca1d13c546527fac5dea2ebe",
+    "text": "c) DO NOT contact clients at odd hours, as per the RBI guidelines for loan recovery agents.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4276dcf45385b4883b53acca77678bfe",
+    "text": "c) It is legally required to do so.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5501853bcd87594ce8b45a5e265f2dc9",
+    "text": "d) This practice is customary amongst",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "382fc6878a91b9fedf645cf36c5dc5a2",
+    "text": "financial institutions and available for a close group on reciprocal basis (such as a credit bureau) provided that the i) clients’ prior consent has been obtained and ii) the receiver of such information is also bound by these conditions to keep the client information confidential.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a908fd92b3ab13ec33c46356f1c40ff2",
+    "text": "25. Shall follow board approved process to raise clients’ awareness of the options, choices, and responsibilities vis-à-vis financial products and services available.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2eeaeb2d75e0ee9f127a79e60a5f6584",
+    "text": "d) DO NOT visit clients at inappropriate occasions such as bereavement, sickness, etc., to collect dues.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "96817c5513f4b3f11436419d6c7cf7a6",
+    "text": "26. Shall inform all new clients about the",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "213ff92a4fd8c7c3144c7061091555ff"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "933f11306c3735836a30610d275f401e",
+    "text": "organization’s policies and procedures.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ec30e2ce407d9afd4a1fb23b4f2e68cb",
+    "text": "27. Shall inform clients about the existence and",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c302ba139a0fcd4465a77bbc2c6db66a",
+    "text": "20. Shall provide a valid receipt (in whatever",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ecf6b3ea6e3dfc7437d5343392ed424",
+    "text": "form decided by the MFI) for each and every payment received from the borrower and record the payment in the loan passbook/loan card with the client.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fcd44f377e0816faf9d9ced1e0100230",
+    "text": "21. Shall follow approved company procedure to",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "86100d2f1803803c300c8cdc2a9d652a",
+    "text": "deal with client default sensitively.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a9b66f97c867c42212b6a9df975d16f4",
+    "text": "purpose of feedback mechanisms and how to access them.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8daf52a64394956e7e21cf2aa26e1a83",
+    "text": "28. Shall get an assessment of compliance with",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "153e026cebed89f253943448c970197f",
+    "text": "the code of conduct carried out by an agency approved by the SRO, once in every 12 to 18 months and place the assessment report in public domain.",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "933f11306c3735836a30610d275f401e"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "55b469f96bb2d8b41f078e9810951105",
+    "text": "19",
+    "metadata": {
+      "page_number": 19,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "979bff1e22ca508c86d1b12391eef8e8",
+    "text": "PART IV",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "886c8b35ceb1d8adf6a44bfbd5b38f23",
+    "text": "INSTITUTIONAL CONDUCT GUIDELINES FOR MICROFINANCE INSTITUTIONS (ICG)",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "979bff1e22ca508c86d1b12391eef8e8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1d16096aaa7d576b273da57e8afda97",
+    "text": "The ICG states that all MFIs, regardless of their form:",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "979bff1e22ca508c86d1b12391eef8e8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c3476665bdfbc3af164882ab7820511f",
+    "text": "subject to a minimum of one month for an outgoing employee.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "33815e87c82073efac51df0a6fccb4ff",
+    "text": "1. Shall have an appropriate mechanism for ensuring compliance with the Code of Conduct.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4ee6dcadab8a588f16615dbce303a19d",
+    "text": "2. Shall have appropriate policies and operating guidelines to treat clients and employees with fairness and dignity.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "be2164251cdb2f60ad8abb738ffe35a0",
+    "text": "3. Shall maintain formal records of all",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca3612361a5797625cd63b7f8102160b",
+    "text": "transactions in accordance with all regulatory and statutory norms, and borrowers’ acknowledgement/acceptance of terms/ conditions must form a part of these records.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "77ea4a7bde558eb330a137c1f2dd438b",
+    "text": "12. Shall not recruit an employee of another MFI without the relieving letter from the previous MFI employer except where the previous employer (MFI) fails to respond to the reference check request within 20 days.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d4dc50ee5816b8b039cd6f257a54e973",
+    "text": "13. Shall not assign a new employee recruited from another MFI, to the same area he/she was serving at the previous employer, for a period of 1 year. This restriction applies to positions up to the Branch Manager level.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7db29ff27b8a83cb359ba5e10e4266d1",
+    "text": "14. Shall have a dedicated process to raise the",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c9f7ca4c57e6cc96007857f4d724344a",
+    "text": "4. Shall have detailed board approved process for dealing with clients, at each stage of default.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1bdfeed86572c3a35779c871a9b99033",
+    "text": "5. Shall not collect shortfalls in collections from employees except in proven cases of frauds by employees.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d198cb2d5545c0085fef45016bc2e07c",
+    "text": "6. MFIs should ensure that their competitive practices are fair and customer friendly.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f5540527dcd2c56b94d65bcf70eb76a",
+    "text": "client’s awareness of options, choices, rights and responsibilities as a borrower and shall conduct regular checks on client awareness and understanding of the key terms and conditions of the products/ services offered / availed.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "045291e9c880a01327e5a0b9892bf599",
+    "text": "15. Shall agree to share complete client data with all RBI approved Credit Bureaus, as per the frequency of data submission prescribed by the SRO.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af8fef86006b5c891db45d8a61671628",
+    "text": "7. MFIs should avoid geographies where there is a large presence of other MFIs with significant business volumes.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4abb5593a0442641228af4b37f36e8c2",
+    "text": "8. Shall have a Board approved debt",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4dc65e4cd328250db86d34cb1123744d",
+    "text": "16. Shall establish dedicated feedback and",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c7576ca545bd7e3acc6a892e41a1e94",
+    "text": "grievance redressal mechanisms to correct any error and handle/receive complaints speedily and efficiently.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "10afa77f6642d46f90b52bf1e6394c8d",
+    "text": "restructuring product/program for providing relief to borrowers facing repayment stress.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "58086dee0edd47a8396120ac5b6e79fd",
+    "text": "17. Shall designate an official to handle",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b3c1a00d7e01515aa9549188b5885143",
+    "text": "9. Shall seek a reference check from previous",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c3476665bdfbc3af164882ab7820511f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "93a025bb5c8c61f184afaa4c2958c414",
+    "text": "employer for any new hire.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "18b71859fcde8b4294e3b98501e3009a",
+    "text": "complaints and/ or note any suggestions from the clients and make his/ her contact numbers easily accessible to clients.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "93a025bb5c8c61f184afaa4c2958c414"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b5ad16022f0aad69e3c0996f31fbd064",
+    "text": "10. Shall provide within 20 days the reply to the",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "93a025bb5c8c61f184afaa4c2958c414"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a779c69b55f942d72706b5df60f58429",
+    "text": "reference check correspondence for another MFI.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ff703b57eaf8a4a5dd737fdb9ba6b1df",
+    "text": "18. Shall undertake remedial measures in respect of deficiencies found in COC observance during assessments carried out.",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a779c69b55f942d72706b5df60f58429"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "32cbb5813cb18cc19534d874f1a01993",
+    "text": "11. Shall honour notice period as contractually",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a779c69b55f942d72706b5df60f58429"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e7e26f10c5180a7ee64b2644e3119c8",
+    "text": "agreed between employer and employee",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a779c69b55f942d72706b5df60f58429"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fc77abb348526a1332d3052f9e7ceff5",
+    "text": "20",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b9a6adc49ef35c7d789031983a515b4b",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 20,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4ac80d37f47f1921e75421d984e745de",
+    "text": "ANNEXURE MFIs’ COMMITMENT TO CUSTOMERS",
+    "metadata": {
+      "page_number": 21,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "935682d8c814d9c575feef639378e82c",
+    "text": "This is a supplementary document to be used as a separate one pager pull out, to be given to the customers at the time of loan disbursement",
+    "metadata": {
+      "page_number": 21,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac80d37f47f1921e75421d984e745de"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ccf2ed9b9d441210c670a54f81d70560",
+    "text": "MFIs’ Commitment to Customers",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1455a0015202a3ced3e13775a4e2d1fd",
+    "text": "We, as part of the Microfinance Industry promise the customers that we will:",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ccf2ed9b9d441210c670a54f81d70560"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4abf5e79657845a300632e35d69a0a01",
+    "text": "1. provide micro finance services to all eligible clients in complete compliance with RBI guidelines.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ccf2ed9b9d441210c670a54f81d70560"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8d90f2db8c779f7e2b51ace2cc01d57c",
+    "text": "7. declare all interest and fees payable as an",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ccf2ed9b9d441210c670a54f81d70560"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f6074891f9fc6a88236ff72ca340f67a",
+    "text": "all-inclusive APR and equivalent monthly rate communicate in writing, charges levied for all financial services rendered.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ccf2ed9b9d441210c670a54f81d70560"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "63bf1840b679e932236dfa13f4bf5c8a",
+    "text": "8. not collect fee on non-credit products/",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ccf2ed9b9d441210c670a54f81d70560"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "69fe82480ab6958f35182031200c0d3a",
+    "text": "services without prior declaration to the client.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9f67b8d0983d1caa21dd2b38a18c3224",
+    "text": "2. educate clients on the Code of Conduct and",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "69fe82480ab6958f35182031200c0d3a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "84fe82ebf41a1484b928235f7f9ee4ca",
+    "text": "its implementation.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6efc1b7ea93f2f24377e727585f2c649",
+    "text": "9.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "84fe82ebf41a1484b928235f7f9ee4ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "41669a026ea12ff782b6c60b4f31f5b5",
+    "text": "follow RBI’s guidelines with respect to interest charges and security deposit.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "84fe82ebf41a1484b928235f7f9ee4ca"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68010aca951aba99b97b9aae71c7e40c",
+    "text": "3. disclose all terms and conditions to the",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "84fe82ebf41a1484b928235f7f9ee4ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8c421be934f82d4b79bc926b7c404d63",
+    "text": "client for all products/services offered, prior to disbursement, in accordance with the Reserve Bank of India’s (RBI) fair practices code through the following documents.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "84fe82ebf41a1484b928235f7f9ee4ca"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e84a812954c349a3236c13d5b8214f2d",
+    "text": "10. obtain copies of relevant documents from clients, as per standard KYC norms. Any additional documents we ask for will be reasonable and necessary for completing the transaction.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "84fe82ebf41a1484b928235f7f9ee4ca"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1cc50788a1cdbd8000c976a6282a4c22",
+    "text": "a.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ffec022de0e652af4de46867fcde31a5",
+    "text": "Individual sanction letter",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3d436f66c6e707bb43899c36da3b1993",
+    "text": "11. disclose reasons for rejection of loans to",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ffec022de0e652af4de46867fcde31a5"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c690de3883a6c43d604583c7fad11e04",
+    "text": "b. Loan card",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b540179c6150359349f23245863ac211",
+    "text": "applicants.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "019360165cbce8bc7a07dc0151713b30",
+    "text": "c. Loan schedule",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1a1f6507b2dd6ff7b104955c9e218b06",
+    "text": "d. Passbook",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "10c302537cd9d82277b19c2a57020c76",
+    "text": "4.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1a1f6507b2dd6ff7b104955c9e218b06"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f0da8b3722801dd258829d01dfae7f1",
+    "text": "In addition, disclose the terms and conditions in local language through Group/Centre meetings and secure their consent. (Details can be printed on a paper and all borrowers can sign on the same as acknowledgement of their acceptance).",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1a1f6507b2dd6ff7b104955c9e218b06"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5070d9f96057ab908162efbeb2aeac99",
+    "text": "5. communicate all the terms and conditions for all products/services in the official regional language or a language understood by clients.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1a1f6507b2dd6ff7b104955c9e218b06"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8fe7ce562554d2e15f6f2390a96d1fcf",
+    "text": "6. disclose the following terms of loans:",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1a1f6507b2dd6ff7b104955c9e218b06"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc342966ca96886cfca7e2e24def5ce1",
+    "text": "a. Rate of interest on a reducing balance",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1a1f6507b2dd6ff7b104955c9e218b06"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c1427c99a96e7eb73b6db8e5e520de11",
+    "text": "method",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0cb34961c34fd7063393736c05af893f",
+    "text": "12. indicate the time limit within which applicants/ customers can expect a decision on loan application and if sanctioned, the time taken for disbursement of loan.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1427c99a96e7eb73b6db8e5e520de11"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f948696c326c523228ff3c65e0f4914e",
+    "text": "13. not bundle products, except for credit",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1427c99a96e7eb73b6db8e5e520de11"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1873099a732ad084feea7670dcc66ba5",
+    "text": "life insurance, life insurance & live-stock insurance products. The terms of insurance will be transparently conveyed to the customer and will comply with RBI & IRDA norms. Consent of the client will be taken in all cases.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1427c99a96e7eb73b6db8e5e520de11"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ca8d8071409f15a0f00ee3d3a9070089",
+    "text": "14. conduct proper due diligence to assess the need and repayment capacity of customer before making a loan and must only make loans commensurate with the client’s ability to repay.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1427c99a96e7eb73b6db8e5e520de11"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d51cba96bd9f398e290d50b2e0b02293",
+    "text": "b. Processing fee",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3f3a2ea4ecd16425d02893e445113d6e",
+    "text": "15. not be the 3rd lender if the customer",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d51cba96bd9f398e290d50b2e0b02293"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b32eeb4b74f14eed022ec59bb08bdf64",
+    "text": "c. Any other charges or fees howsoever",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f7d9cd79a9d4de7536bdac6997868eea",
+    "text": "described",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b32eeb4b74f14eed022ec59bb08bdf64"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e36e057dbb78f751e0bd36a04780af7a",
+    "text": "already has loans from 2 other lenders (Irrespective of the source of loan).",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b32eeb4b74f14eed022ec59bb08bdf64"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b975451bf3958d06e9da1941f34e1850",
+    "text": "d. Total charges recovered for insurance",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b32eeb4b74f14eed022ec59bb08bdf64"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da2f8336b72bc3d69ba13ffdde95f299",
+    "text": "coverage and risks covered",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b32eeb4b74f14eed022ec59bb08bdf64"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "206ba4ada1282ae059db9afe01a098f7",
+    "text": "16. not breach the total debt limit for any client, as prescribed by the RBI or Central/State Governments.",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b32eeb4b74f14eed022ec59bb08bdf64"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9742c76a707c8e366e02f2686b67d205",
+    "text": "23",
+    "metadata": {
+      "page_number": 23,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bc444af9d37e7849be6e9dc38678976a",
+    "text": "17. ensure that all our employees follow company guidelines for interaction with customers.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "839eaccb766db569bc048a859c61b0fa",
+    "text": "18. ensure that all staff and persons acting on our",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac",
+    "text": "behalf:",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6bf62fbb052983ef5fbcfd256506e98b",
+    "text": "a. Use courteous language, maintain decorum, and are respectful",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "61d6e259cdedaa582bdad2953c29268e",
+    "text": "b. DO NOT indulge in any behavior that in",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d71698ef73299cf8c1554f1a6986e7bc",
+    "text": "any manner that would suggest any kind of threat or violence to clients.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c5bc15cd3bcacf89c0236e021bee22b1",
+    "text": "c. DO NOT contact clients at odd hours, as per the RBI guidelines for loan recovery agents.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7d133ca05ecc2d3e81ec9cccd848777f",
+    "text": "d. DO NOT visit clients at inappropriate occasions such as bereavement, sickness, etc., to collect dues.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ec5dc6031e05d3eab294c4e6433a270",
+    "text": "19. provide a valid receipt (in whatever form decided by the MFI) for each and every payment received from the borrower.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e458c8f7331b0142f49bfe5406377390",
+    "text": "20. follow approved company procedure to deal",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "47b8c5e485e589f9ab8e9a5f8d59e2ac"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "976e1d3816b598014d919747da0e907d",
+    "text": "with any default sensitively.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc947559bf36675964d45b52b666ca62",
+    "text": "21. follow the debt restructuring mechanism",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "976e1d3816b598014d919747da0e907d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cb0282ca185edbe5dd112e20c03fceda",
+    "text": "approved by our board for borrowers under liquidity stress.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "976e1d3816b598014d919747da0e907d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0d5d19b34060121340e566279eb6db99",
+    "text": "22. keep the collected client information strictly",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "976e1d3816b598014d919747da0e907d"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b05bb159977feb191d352f530df753e4",
+    "text": "confidential.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e34955b282a58e7a665101d663ff533",
+    "text": "23. disclose client information to a third party only under the following conditions:",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b05bb159977feb191d352f530df753e4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b76a80e3ceab5ce92e20d56acb219cb5",
+    "text": "a. Client has been informed about such disclosure and permission has been obtained in writing.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b05bb159977feb191d352f530df753e4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "827440c156925e463cf594671879b2c0",
+    "text": "b. The party in question has been",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b05bb159977feb191d352f530df753e4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "74b29b52cdf8469049afee4f9f4ff9ec",
+    "text": "authorized by the client to obtain client information from the MFI.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b05bb159977feb191d352f530df753e4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e601409e7e32f5b3bf8a148e449516a5",
+    "text": "c.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49a0780299464bf32030624eb310a6e7",
+    "text": "It is legally required to do so.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e601409e7e32f5b3bf8a148e449516a5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52bbc4945507958e9165d095ae1444eb",
+    "text": "d. This practice is customary amongst",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e601409e7e32f5b3bf8a148e449516a5"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb9b36c8d1e315d36957302ea78996d3",
+    "text": "financial institutions and available for a close group on reciprocal basis (such as a credit bureau) provided that the",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "e601409e7e32f5b3bf8a148e449516a5"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2e73a8d108c207c01312ca9416a5491a",
+    "text": "24",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "51e69eae6ad970750b88736dd6e3cacf",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5030cc2dee561089138cd3eb10201aa6",
+    "text": "i) customer’s prior consent has been obtained and ii) the receiver of such information is also bound by these conditions to keep the client information confidential.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2d6ca49cc2defc1bf595cf3d77c5b62",
+    "text": "24. follow board approved process to raise customers’ awareness of the options, choices, and responsibilities vis-à-vis financial products and services available.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e2cdda432d61a46f6277bb9e816772af",
+    "text": "25. inform all new clients about the organization’s",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "adbb28ce6c9cbe9a462f59c1ba4eec23",
+    "text": "policies and procedures.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e4afa72c7d3ed1dce304b08bb99104e",
+    "text": "26. inform clients about the existence and",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b45ea8ad3b8334db9ad17c7453adc0a",
+    "text": "purpose of feedback mechanisms and how to access them.",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b095482efc252dc69b2ba66c64925dc",
+    "text": "Customers’ Rights As a customer you have the following rights to:",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fc0732d39ac32b6ebf5c9707074444eb",
+    "text": "1. Ascertain the terms and conditions of the",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "833fdd07c684dd2d16a31e94b5b68b2a",
+    "text": "loan from the field officer or the branch staff – either orally or in writing",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e0563843e3bceffbb7c4ad7fae015f5b",
+    "text": "2. Ascertain the balance outstanding, amount of loan and interest repaid and other information relating to an existing loan or a loan that has been closed not earlier than 12 months back – either orally or in writing",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e4c482de4e12d5e7c29784e0d0120dd9",
+    "text": "3. Receive a loan sanction letter or loan card",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d17ed9a900c0e4d2bff1ad30131d42d6",
+    "text": "indicating all the terms of the loan",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26cd99cb822ce74f919c51e9456e56b4",
+    "text": "4. Get a passbook in any suitable form",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b40ce04a701856af8a497f1eeaa868b",
+    "text": "indicating the periodic loan instalments repaid and the balance outstanding",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f0c7bfe0e7585febb255618adcbb578f",
+    "text": "5. Get a receipt for any payments including loan",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c7af3307d6f119b337bc01b306c4485b",
+    "text": "instalments made to the staff of MFI",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ea12b2854555cfb4d28645fefb020908",
+    "text": "6. Access the officials indicated in the loan-",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8bb1aa1ce848567b4d6e21e84bd443fc",
+    "text": "card or other material of the MFI for making complaints, registering grievances – this can be done in writing or over phone",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3bb98abda192532ccc490ba47e0330d6",
+    "text": "7. Receive assistance from a designated staff of the MFI in the branch for lodging a complaint or grievance",
+    "metadata": {
+      "page_number": 24,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "088ff0bb25dd0f43fad87b496ce138b1",
+    "text": "8. Receive an acknowledgement of a complaint",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a41eba90c362f9b023fb08d37c3ff250",
+    "text": "or grievance lodged by you with a time limit indicated for resolution",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e1e5b9cf71d2fecd4bdbe6ee6a86be7",
+    "text": "10. Appeal to a higher level in case you are not satisfied with the response or the solution provided on your complaint",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2309c8a6353fba1f05c8ee296c02aea5",
+    "text": "9. Receive a reply to your complaint/grievance",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6320e9e96e7119b71fe1e80a167caa72",
+    "text": "11. Appeal to the nodal officer of RBI in any case,",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f8685cfe0735cbef7bb24fe79f25db0",
+    "text": "within the prescribed time limit – which will be informed to you by the MFI when you lodge the complaint",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "adbb28ce6c9cbe9a462f59c1ba4eec23"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "154dc12a46e06cca99a7ff638023694a",
+    "text": "regardless of our grievance procedure",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "87878037d889d8f8adc2074d32a30436",
+    "text": "25",
+    "metadata": {
+      "page_number": 25,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e2029e0a77355ee508b247cfd1cbe427",
+    "text": "28",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c9c56d5e4d84a9bc971a800c0a44185c",
+    "text": "2ND EDITION: DECEMBER 2015",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bbdcb44afe6a39fed53063757bfadccf",
+    "text": "Published by:",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c9c56d5e4d84a9bc971a800c0a44185c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bbf1e0827828c3f3fbbb31ac213bfcbd",
+    "text": "Microfinance Institutions Network (MFIN)",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5f73b5c298caae2b1ba339864587a85a",
+    "text": "705, Tower B, Millenium Plaza, Sushant Lok I, Gurgaon, 122002, Haryana, India.",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9ae919843482ed4ff9f1d2111d3bba69",
+    "text": "Phone: + (91) 124 4212570",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "5f73b5c298caae2b1ba339864587a85a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "72e39ec9f04f1b4651b185dfdcfe7687",
+    "text": "Email: contact@mfinindia.org",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c03cd10885bd6b350b01b42b0b1d309",
+    "text": "Website: http://mfinindia.org/",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0abe2d77ef826a1af1963351524ef0c3",
+    "text": "Code of Conduct for the Microfinance Industry",
+    "metadata": {
+      "page_number": 28,
+      "languages": [
+        "eng"
+      ],
+      "filename": "MFIN-Code-of-Conduct.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

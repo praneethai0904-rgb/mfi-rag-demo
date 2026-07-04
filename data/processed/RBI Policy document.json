@@ -1,0 +1,2137 @@
+[
+  {
+    "type": "Header",
+    "element_id": "4ac5be308342b413514f8f0ae54854ca",
+    "text": "Regulatory Framework for Microfinance Loans dated July 25, 2022 (Updated as on",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c411f5c8a7a17036bea148695ca576a1",
+    "text": "January 30, 2025)",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1c2a744afe86782fab9cb4a16bf94ffe",
+    "text": "Q 1. Certain aspects of Master Direction on Regulatory Framework for Microfinance",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e03caa76f90522d307ed03eab378442",
+    "text": "Loans may require additional time for drafting of new policies, getting board-level",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1c2a744afe86782fab9cb4a16bf94ffe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6dbcbd11fb55d71322558951ad631010",
+    "text": "approvals, making changes in technology systems, training of staff, etc. Whether",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1c2a744afe86782fab9cb4a16bf94ffe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d64c081edfb1d4ae6fec476ad089b7f",
+    "text": "the timeline for complete rollout of these directions may be extended, while",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1c2a744afe86782fab9cb4a16bf94ffe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b37f3e27535eb31e1540b7649677168b",
+    "text": "keeping the effective date as April 1, 2022?",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1c2a744afe86782fab9cb4a16bf94ffe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5b5caba89da38ca48ab7ac0df234c2a",
+    "text": "Ans. The effective date of these directions is April 1, 2022. However, in view of",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1c2a744afe86782fab9cb4a16bf94ffe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "205354856d12365cdff4f00a3672e87a",
+    "text": "implementation related difficulties expressed by some regulated entities (REs), REs are",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1c2a744afe86782fab9cb4a16bf94ffe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f026c940cad5f3db361c0714b576afcd",
+    "text": "advised to implement these directions completely at the earliest on best effort basis, but",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1c2a744afe86782fab9cb4a16bf94ffe"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9ac93891d82f6527d761ceda7c2c1f52",
+    "text": "not later than October 1, 2022.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd872753c7ca17a5a1590c755dd56676",
+    "text": "Q 2. Whether all members of a household are mandatorily required to become",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9ac93891d82f6527d761ceda7c2c1f52"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b1d8db354bdfb54e80c735d53c5835c3",
+    "text": "borrowers of a microfinance loan?",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2eeb8900f251f3ca3814fb77f1dc6fb8",
+    "text": "Ans. The directions require assessment of income and indebtedness at household level.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b1d8db354bdfb54e80c735d53c5835c3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7e59e0e66ec0ee03aee93499e28733a",
+    "text": "There is no requirement of treating all members of the household as applicants/ borrowers",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b1d8db354bdfb54e80c735d53c5835c3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e1cf4e6e75e71968d3a602bd73d004dc",
+    "text": "of a loan which can be provided to an individual member. Board-approved policies of REs",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b1d8db354bdfb54e80c735d53c5835c3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9390dc6e3a2aac31c79a5a0bbdd7cfc6",
+    "text": "may include the methodologies/ operational frameworks to assess income and",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b1d8db354bdfb54e80c735d53c5835c3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "22c874f56c803571b796e2c75cec7d88",
+    "text": "indebtedness of all members of the household.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "331406ff7503266b3c8f56484bbea06d",
+    "text": "Q 3. Whether loans for consumption (i.e., for buying gadgets, meeting expenses on",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8477e5cb52e31f680b5831106fc11392",
+    "text": "ceremonies, etc.) without collateral would be treated as microfinance loans?",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5612f67f964c94e7b718a707791b3ee7",
+    "text": "Ans. All collateral-free loans to individual/s belonging to low-income households, i.e.,",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1077ba822d04be37c9000b67f33907e6",
+    "text": "households having annual income up to ₹3,00,000 are treated as microfinance loans.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "790034c988d526f7ec3af75888b5a731",
+    "text": "Q 4. If a loan is backed by hypothecation of any security (gold, equipment, white",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e7349d14cfd4da14ad94e723c66d8dc",
+    "text": "goods, underlying assets etc.), will this loan be considered collateral-free and",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52c9f0372a3ef34e27b45fdb60762d5d",
+    "text": "classified as a microfinance loan?",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "02bf041f841595a517d8c9fe660007d7",
+    "text": "Ans. Loans backed by hypothecation of any security shall not be treated as microfinance",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "22c874f56c803571b796e2c75cec7d88"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "188ea0254c3422706e821c05d60f6608",
+    "text": "loans.",
+    "metadata": {
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab393801b3dd20449adb7592e53b6a13",
+    "text": "Q 5. Whether the instructions related to limit of 50 per cent on monthly loan",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "188ea0254c3422706e821c05d60f6608"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cd48d9d4ec97ad25bdd62a08d7ec6fe7",
+    "text": "repayment obligations of a household as a percentage of monthly household",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "54e57bee7b5db11ffc825fae08a70e94",
+    "text": "income apply to non-microfinance loans given to low-income households?",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cd48d9d4ec97ad25bdd62a08d7ec6fe7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f7762e1c6932c90b69c7dc7d91b0662d",
+    "text": "Ans. Yes, for providing a non-microfinance loan to a low-income household (as defined",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cd48d9d4ec97ad25bdd62a08d7ec6fe7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3fc522181dfe92467e755092c4dd661b",
+    "text": "under the directions), it should be ensured that the limit of 50 per cent on monthly loan",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cd48d9d4ec97ad25bdd62a08d7ec6fe7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6f8d89efb4c896424f522e5c2e5d74a8",
+    "text": "repayment obligations of a household as a percentage of monthly household income is",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cd48d9d4ec97ad25bdd62a08d7ec6fe7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c5362a4ca563aaab2dcc840292e2d1b",
+    "text": "not breached. In other words, the limit of 50 per cent shall include both microfinance as",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "cd48d9d4ec97ad25bdd62a08d7ec6fe7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9df9385176028edb76c185e81da2c410",
+    "text": "well as non-microfinance loans.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5d850bc9d3e685ddb5051dfe4dcffff6",
+    "text": "Q 6. How should credit facilities not having an EMI feature be treated for arriving at",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "9df9385176028edb76c185e81da2c410"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "08a2e28aa71ee6d9d72172e35d226390",
+    "text": "total monthly repayment obligations of the household?",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c3cb4a3b9735149dd77e5640cd5acf43",
+    "text": "Ans. Board-approved policies of REs should cover such operational aspects. One",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "08a2e28aa71ee6d9d72172e35d226390"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c30bd51f65dff531f45dc5b52f5cffa6",
+    "text": "possible way could be to distribute the annualized repayment obligations over twelve",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "08a2e28aa71ee6d9d72172e35d226390"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3af90fdf087aa1783e668175c040e3ad",
+    "text": "months to estimate monthly outgo of the household towards debt repayment.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "08a2e28aa71ee6d9d72172e35d226390"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d600d066bab758cb95e2550745d5c12",
+    "text": "Q 7. Can expected income from an asset/ activity financed by a microfinance loan",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "08a2e28aa71ee6d9d72172e35d226390"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "48a2d4d9ff3202f9a35fc849a5a3634b",
+    "text": "be included for estimation of household income?",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "08a2e28aa71ee6d9d72172e35d226390"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c1463e0c9d93a04ce8855293f2f2f368",
+    "text": "Ans. No.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32ed8ac0e5aa664da1941625cdebaf17",
+    "text": "Q 8. What type of insurance charges are to be disclosed in the factsheet and",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8010541e20421e8a1a5629d4287d7f86",
+    "text": "included for computation of effective annualized interest rate? Whether charges",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8fec76bd86e586c9a1c78aafc0f6f9d",
+    "text": "related to non-credit products should also be provided in the factsheet?",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "78a01fb1f3183fdcb6cb61c4a7351977",
+    "text": "Ans. The insurance charges included in the factsheet are only for credit linked insurance",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "637cd3cd33fb547333647202e70d92cb",
+    "text": "product as these charges are linked to the microfinance loan. A borrower would not have",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0bf78ff81f46520ece06939a1b167c5",
+    "text": "incurred these charges if he had not taken the loan. The factsheet should contain",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "44578c6b88afd443925ffb79375a1111",
+    "text": "information related to only pricing of microfinance loans to keep it uncluttered. Disclosures",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "88aa640206b86ea72e037a25ac2756ec",
+    "text": "related to other non-credit products should be provided separately from the factsheet as",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "237d4451372aced50640225359e0c1d7",
+    "text": "mentioned under para 7.1.51 of the directions. All non-credit products (both financial",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "c1463e0c9d93a04ce8855293f2f2f368"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "059534e7d050721537751d6632f3284e",
+    "text": "products such as investment products, insurance products etc. as well as non-financial",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "4ac5be308342b413514f8f0ae54854ca"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bed414ce23052a99e27209c54e088995",
+    "text": "products such as solar lanterns, sewing machines etc.) should be provided only with the",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "059534e7d050721537751d6632f3284e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a94dd8fc2556d7e0284145d8cb57fbed",
+    "text": "explicit consent of the borrower and REs should ensure that there is no direct or indirect",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "059534e7d050721537751d6632f3284e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f09322d30c1c8285939ac236af605f9",
+    "text": "linkage between the loan provided to the borrower and other non-credit products. No non-",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "059534e7d050721537751d6632f3284e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "65ca6d10803cd1d50f4a10b86b136611",
+    "text": "1 7.1.5. Issuance of non-credit products shall be with full consent of the borrowers and fee structure for such products shall be explicitly communicated to the borrower in the loan card itself.",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "059534e7d050721537751d6632f3284e"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "716911961e86c510400afdca824188b7",
+    "text": "2",
+    "metadata": {
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "90631fa15d0f3b0d3da1ed955043188a",
+    "text": "credit product shall be sold as a pre-condition for the loan product. REs should",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de7269ff6f41e72d572711db199b3c56",
+    "text": "prominently display2 that purchase of any non-credit product by the microfinance",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "923e8f02ea5b0ab4fcc29fb050abe02f",
+    "text": "borrowers is purely on a voluntary basis. Board-approved Fair Practices Code of the REs,",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6af3a4b34e6bfd97ff9546abcb9fe60f",
+    "text": "as mentioned under para 7.1.13 of the directions, should also cover this aspect.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bbb2d8d5eb5fc3a277b2ec9eedb14964",
+    "text": "Q 9. Are REs allowed to review and revise interest rates applicable to existing loans",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b16a1489ec79d25a215f759737134fbd",
+    "text": "during the loan tenure apart from cases of restructured loans?",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4cdc063ce3234604ed7398062f552b13",
+    "text": "Ans. The directions are applicable to loans sanctioned on or after April 1, 2022.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b16a1489ec79d25a215f759737134fbd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0dca6d976cdce92936184d4a75ec420",
+    "text": "Accordingly, pricing of the existing loans of NBFC-MFIs i.e., sanctioned prior to April 1,",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b16a1489ec79d25a215f759737134fbd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a794c77743dbe1835e20e63cf7fce021",
+    "text": "2022 shall continue to be as per the guidelines applicable as on March 31, 2022. As other",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b16a1489ec79d25a215f759737134fbd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46a32ab3007fca0b1e031633a29c4347",
+    "text": "REs were already free to decide pricing of loans sanctioned, they are allowed to review",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b16a1489ec79d25a215f759737134fbd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6a88856795a15c45dd592c98467a2a8",
+    "text": "and revise interest rates applicable to the existing loans also, subject to compliance with",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b16a1489ec79d25a215f759737134fbd"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "862b3a3668d7336e682bec2e320deaab",
+    "text": "the relevant guidelines.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa4db02c1627172b4e8cb95bf4ef5b6b",
+    "text": "Q 10. Is the practice of calling a borrower before 9.00 am and after 6.00 pm being",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "862b3a3668d7336e682bec2e320deaab"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8b8d9c3896ae3f9e691c6377c031da12",
+    "text": "considered as harsh practice only for recovery of overdue loans or also for normal",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "862b3a3668d7336e682bec2e320deaab"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7926ab3531248f13c364ffd7166bac64",
+    "text": "conduct of business?",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "54b9db4b6f97759fa18b8929927154cf",
+    "text": "Ans. This clause is applicable only for recovery from borrowers having overdue loans.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "7926ab3531248f13c364ffd7166bac64"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "702a5ecf510063b17d1906871e734350",
+    "text": "For other borrowers, REs can continue with the existing timing/ process for business like",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "7926ab3531248f13c364ffd7166bac64"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "df97e83073c72b33f2f0ab5d136df751",
+    "text": "group meetings, collection in regular accounts, etc. as per borrowers’ convenience.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "534d24075d527ccc8c9a0b2f6a16dcca",
+    "text": "Q 11. Is there any specific reason for including a dedicated mechanism for",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "df97e83073c72b33f2f0ab5d136df751"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "61d353e68bf0b710a844b4814231f731",
+    "text": "redressal of recovery related grievances when there is already a customer",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "df97e83073c72b33f2f0ab5d136df751"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "61e2c8ee0b004a06841b6228e17b4318",
+    "text": "grievance redress mechanism?",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2b9d8641dffba561a7fdf425221f678",
+    "text": "Ans. The purpose of having a dedicated redress mechanism for recovery related",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "61e2c8ee0b004a06841b6228e17b4318"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b95de9fcc319de8957e9235e2d903bb",
+    "text": "grievances is that these grievances should be promptly addressed. Treating (clubbing)",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "61e2c8ee0b004a06841b6228e17b4318"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7dad84306c3609dba9368574e0111156",
+    "text": "them as (with) other complaints (e.g., operational issues) may result in delayed action.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "61e2c8ee0b004a06841b6228e17b4318"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6a8550e07f33834bac9182577f528626",
+    "text": "However, this does not imply that a separate redress mechanism for recovery related",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "61e2c8ee0b004a06841b6228e17b4318"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5de9f465f4b8a19604fd55930865e7cd",
+    "text": "grievances is being mandated. REs can restructure/ re-organise the existing customer",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "61e2c8ee0b004a06841b6228e17b4318"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d99f072c8d66f2fc0308bf2256e1d0d",
+    "text": "2 in their offices, on their websites as part of Fair Practices Code and in the loan card issued to the borrower 3 7.1.1 A FPC based on these directions shall be put in place by all REs with the approval of their boards. The FPC shall be displayed by the RE in all its offices and on its website. The FPC should be issued in a language understood by the borrower.",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "61e2c8ee0b004a06841b6228e17b4318"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c648b04e2163f489abd6c2d9cdd39d79",
+    "text": "3",
+    "metadata": {
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95d0555f5b792a077440f74c6b7e835d",
+    "text": "grievance redress mechanism to identify and promptly address recovery related",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a005534d0af963a64ddd9db192022b27",
+    "text": "grievances.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05f9148d411aa9640705318be63ead01",
+    "text": "Q 12. What is the purpose of assessment of household expenses as provided under",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "a005534d0af963a64ddd9db192022b27"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b99e922919243b97af944d608b4c7794",
+    "text": "Annex-I on ‘Indicative Methodology for Household Income Assessment’? Does it",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b10948376bc3de9e191e58a0b153cfa0",
+    "text": "mean that household income for computing the limit on loan repayment obligations",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b99e922919243b97af944d608b4c7794"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a76c20a27c0cd8096ef68da6ba41366",
+    "text": "of a household is the household income net of expenses?",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b99e922919243b97af944d608b4c7794"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e595de52d3e5ef17b681f5a3d027164d",
+    "text": "Ans. Annex I provides only an indicative methodology for assessment of household",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b99e922919243b97af944d608b4c7794"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43672751fc766b148b7d255ab9f9cfd2",
+    "text": "income, and REs are required to put in place a board-approved policy for household",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "b99e922919243b97af944d608b4c7794"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "11d918c4f5aa1eee688a5b0c81b12ccf",
+    "text": "income assessment. References to household expenses and assessment of household",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a637f907acfabb6ac5a762778a83676",
+    "text": "profile are only for the purpose of validation of the household income reported by the",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "11d918c4f5aa1eee688a5b0c81b12ccf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fd44ea91251b8052b173afd2354228c6",
+    "text": "borrowers.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b7a047482b7bfea19a81edcc3d22229",
+    "text": "Q 13. Is the regulatory framework for microfinance loans applicable to all entities",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fd44ea91251b8052b173afd2354228c6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5956a6c5346c534a2118e1ef4d1ac042",
+    "text": "operating in the microfinance sector including trusts and societies?",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fd44ea91251b8052b173afd2354228c6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e07266f3aba60ff0987544d0b5a60ae",
+    "text": "Ans. The regulatory framework for microfinance loans is applicable only to REs/ entities",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fd44ea91251b8052b173afd2354228c6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "edc076bc697a7dd831f2d6f4aa0081b9",
+    "text": "as defined under para 2.14 and para 9.25 of the directions. However, it may be prudent",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fd44ea91251b8052b173afd2354228c6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8697f014235ecba8f611a84e5b92d650",
+    "text": "for other lenders operating in the microfinance sector to follow these customer-centric",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "fd44ea91251b8052b173afd2354228c6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8dbda5b855eda596c5e80775548f3b35",
+    "text": "directions.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b819c64c4cd4d8d0834837e8fabb3a1",
+    "text": "Q 13A. Is the exemption for ‘Not for Profit’ companies engaged in Microfinance",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "69eb7c7123a78084faa517d325db6b7d",
+    "text": "Activities under para 9 of the directions, applicable to other ‘Not for Profit’",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5deadeeac4108ae07f651c1efed84554",
+    "text": "companies undertaking NBFI activities as well?",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95f14051ad3bdf224f73fcb9c66c6c77",
+    "text": "Ans. The exemption provided by the Reserve Bank to ‘Not for Profit’ companies (i.e.,",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c5255fad94caf7be41bc4eaca546db5",
+    "text": "companies incorporated under Section 8 of the Companies Act, 2013 or Section 25 of the",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "602afea664fa4af9a20cb52c70a347a7",
+    "text": "Companies Act, 1956) is applicable to those which are providing microfinance loans as",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d97fdbcd1fc6563f91c33031001ccb9",
+    "text": "defined in the directions and subject to conditions specified in para 2(i) of our ‘Master",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ac13e0938d0af1b0f21a03e2a63da86",
+    "text": "Direction – Exemptions from the provisions of RBI Act, 1934’ dated August 25, 2016 (as",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52abc04cf1f1bd5c3821edac97243580",
+    "text": "amended from time to time). This exemption is not applicable to other ‘Not for Profit’",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5c50789989fd7b7a54af4d82da65949",
+    "text": "4 2.1 The provisions of these directions shall apply to the following entities:",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "99a3bbb8d3497abf06d894e18d1c9dbf",
+    "text": "All Commercial Banks (including Small Finance Banks, Local Area Banks, and Regional Rural Banks) excluding Payments Banks; All Primary (Urban) Co-operative Banks/ State Co-operative Banks/ District Central Co-operative Banks; and All Non-Banking Financial Companies (including Microfinance Institutions and Housing Finance Companies). 5 Exemptions from Sections 45-IA, 45-IB and 45-IC of the RBI Act, 1934 have been withdrawn for those ‘not for profit’ companies engaged in microfinance activities that have asset size of ₹100 crore and above.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "8dbda5b855eda596c5e80775548f3b35"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "867fc43eafc26405f6c81885799fca69",
+    "text": "i.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6fbeac5535594afd9d4269c28a68369a",
+    "text": "ii. iii.",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7949d4c56f779c24b97db7d570dcaf01",
+    "text": "4",
+    "metadata": {
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4158e86d8b15aa1f96a49238474cb378",
+    "text": "companies engaged in NBFI business and it is incumbent upon such companies to obtain",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0e38668ce2013735da7b8ea3ec2b7284",
+    "text": "a certificate of registration under Section 45-IA of the Reserve Bank of India Act, 1934 in",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a8952fd1d73e231d559b0496ab2d826e",
+    "text": "case these companies are fulfilling the ‘Principal Business Criteria’ as specified in our",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ac119490bc4e944b4fbfdd2d4fbe2de0",
+    "text": "Press Release 1998-99/1269 dated April 08, 1999.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bdc6cb6dc6b1adc38b0dbc2c8cc35d99",
+    "text": "Q 14. What should a customer keep in mind while availing a microfinance loan?",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ac119490bc4e944b4fbfdd2d4fbe2de0"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b02f04331081699e58efb7f9b2eabbb",
+    "text": "Ans. The customer should keep in mind, among others, the following:",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ac119490bc4e944b4fbfdd2d4fbe2de0"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1605dc347fcd618d5250b0ea5a2c4670",
+    "text": "a) There is no requirement of keeping any deposit/ margin/ collateral/ primary security",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ac119490bc4e944b4fbfdd2d4fbe2de0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1427727487b5cea954d360e6a4564537",
+    "text": "with the lender at any stage of the microfinance loan.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "104f6d610fa3cf7ac1a4c0a381e00817",
+    "text": "b) Lender is required to provide a loan card to the borrower in a language understood by",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1427727487b5cea954d360e6a4564537"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "424079eeac83b0f5eb30dc42a405968a",
+    "text": "the borrower which should have following information:",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1427727487b5cea954d360e6a4564537"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "904a6f64a539d751e816daebbb933770",
+    "text": "",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1427727487b5cea954d360e6a4564537"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc095671e47a4011ca5e6a158e1576f5",
+    "text": "Information which adequately identifies the borrower;",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1427727487b5cea954d360e6a4564537"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a3b42275a851f12e4bddc36e8bd9ba91",
+    "text": "Simplified factsheet on pricing;",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1427727487b5cea954d360e6a4564537"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6cf3b78429f0e591a917c34f5ca17584",
+    "text": "All other terms and conditions attached to the loan;",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1427727487b5cea954d360e6a4564537"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fecb4e4e1693a9dc31646baa2c6d3e77",
+    "text": "Acknowledgements by the lender of all repayments including instalments received",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "1427727487b5cea954d360e6a4564537"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ca29ad2ee2f78c2203f0e8fff0596386",
+    "text": "and the final discharge; and",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c8fbc4bb717c553a6c16fbb5caf14aba",
+    "text": "Details of the grievance redress system, including the name and contact number",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ca29ad2ee2f78c2203f0e8fff0596386"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ee379392ceb357d0fab2147d58dccd08",
+    "text": "of the nodal officer of the lender.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4484dac1fe31a97f5929642ce4651833",
+    "text": "c) Purchase of any non-credit products is purely voluntary. Fee structure for such",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee379392ceb357d0fab2147d58dccd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "077f382101cfae56d85636041933e20e",
+    "text": "products shall be explicitly communicated in the loan card.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee379392ceb357d0fab2147d58dccd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7ce15f8d062207d2b27ceaa7b899e9e4",
+    "text": "d) Training provided by the lenders is free of cost.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee379392ceb357d0fab2147d58dccd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d65a8eaaad901d52b2410bb2d6a44f7b",
+    "text": "Q 15. What are the charges that a customer is required to pay for a microfinance",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "ee379392ceb357d0fab2147d58dccd08"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "246cac427a3db260ff48839ad119da51",
+    "text": "loan?",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0888511cd3c8c34bdb9ae9f649b6d20",
+    "text": "Ans. A customer is required to pay only those charges which are explicitly mentioned in",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "246cac427a3db260ff48839ad119da51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1f966c7cd1b18a3c00c17a85792b26bc",
+    "text": "the factsheet provided by the lender. Besides this, the customer should also note the",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "246cac427a3db260ff48839ad119da51"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bd4f6e32b8fde746ec585e1bcbda5355",
+    "text": "following:",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "246cac427a3db260ff48839ad119da51"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b78c54b5a2af67f6d11303ac8828d05",
+    "text": "There is no pre-payment penalty on microfinance loans.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "246cac427a3db260ff48839ad119da51"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "14590cad945fcdcf2f73fec09905a2f7",
+    "text": "Penalty, if any, for delayed payment can be applied only on the overdue amount",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "246cac427a3db260ff48839ad119da51"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d2d9dc05f6501ac04bc8a51a623948e4",
+    "text": "and not on the entire loan amount.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "690de62e7ba64df81b67ad331b20eb95",
+    "text": "Any change in interest rate or any other charge shall be informed to the borrower",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d2d9dc05f6501ac04bc8a51a623948e4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b2e1a0d6f3a2da230abdda5868732e2",
+    "text": "in writing well in advance and these changes shall be effective only prospectively.",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "d2d9dc05f6501ac04bc8a51a623948e4"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "be0e3979bad6fcedc6786c8bf1bc2fe6",
+    "text": "5",
+    "metadata": {
+      "page_number": 5,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7668a27076c76f03bfb0251d33bb1944",
+    "text": "Q 16. How can a borrower find about the current interest rates being charged on",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "10609dfe7bab9f689f196d1104d33de6",
+    "text": "the microfinance loans?",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2b4ae1df5f5cd824e702c8e41fb4f9dd",
+    "text": "Ans. RBI has made it mandatory for lenders to display the minimum, maximum and",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "10609dfe7bab9f689f196d1104d33de6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "939d92c36190c77fdeab96f00116f999",
+    "text": "average interest rates charged on microfinance loans in all their offices, in the literature",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "10609dfe7bab9f689f196d1104d33de6"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "085770ddaaa715dfbf88e846dfe1eb04",
+    "text": "(information booklets/ pamphlets) issued by them and details on their website.",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf",
+      "parent_id": "10609dfe7bab9f689f196d1104d33de6"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a904f92c39a0f1d85434ca6bdb400005",
+    "text": "6",
+    "metadata": {
+      "page_number": 6,
+      "languages": [
+        "eng"
+      ],
+      "filename": "RBI Policy document.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]
